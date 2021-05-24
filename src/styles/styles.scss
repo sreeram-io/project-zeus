@@ -3,6 +3,17 @@
     animation: up-down 1.4s infinite ease-in-out alternate;
   }
 }
+body {
+  background: url(/img/bg.svg);
+}
+
+.layout {
+  background: url(/img/bg.jpg), url(/img/bg2.jpg);
+  background-color: black;
+  background-size: 300px 400px, 100px 500px;
+  background-repeat: no-repeat;
+  background-position: top 50px left, bottom 60px right;
+}
 
 .animate-up-down {
   animation: up-down 1.4s infinite ease-in-out alternate;

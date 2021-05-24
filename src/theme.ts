@@ -25,12 +25,22 @@ const theme = createMuiTheme({
 
   },
   overrides: {
+    MuiAppBar: {
+      colorPrimary: {
+        backgroundColor: '#000000',
+      },
+    },
+    MuiBottomNavigation: {
+      root: {
+        backgroundColor: '#000000',
+      },
+    },
     MuiBottomNavigationAction: {
       label: {
         display: 'none',
         '&.Mui-selected': {
           fontSize: 12,
-          display: 'initial',
+          display: 'none',
         },
       },
     },
