@@ -1,0 +1,8 @@
+version: '3.4'
+services:
+  icarus:
+    build:
+      context: .
+      target: icarus
+    ports:
+      - 3001:3001
