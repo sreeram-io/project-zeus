@@ -30,7 +30,6 @@ img {
 .img--center {
   height: 200px;
   margin: auto;
-  @extend .animate-up-down;
 }
 
 .img--grow {
@@ -114,4 +113,10 @@ pre {
 
 .hidden {
   display: none;
+}
+
+.blinkingcursor {
+  height: 75px !important;
+  width: 75px !important;
+  color: orangered;
 }

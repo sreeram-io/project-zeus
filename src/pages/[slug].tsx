@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import config from '@/config';
 import { useRouter } from 'next/router';
 import _get from 'lodash/get';
+import { Blinkingcursor } from '@sreeram.io/alpha';
 
 const Index = ({ img, firstRoute }) => {
   const router = useRouter();
@@ -11,7 +12,7 @@ const Index = ({ img, firstRoute }) => {
   }, [ firstRoute ]);
 
   return (
-    <img className='img img--center' title='blog' loading='lazy' alt='blog' src={img} height='200' width='375' />
+    <Blinkingcursor className={'img img--center blinkingcursor'} />
   );
 };
 
