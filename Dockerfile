@@ -25,5 +25,5 @@ WORKDIR /project-icarus/
 ENV NODE_ENV="production"
 ADD . /project-icarus/
 RUN npm run build
-EXPOSE 3000/tcp
+EXPOSE 3001/tcp
 CMD [ "npm", "start" ]
