@@ -77,6 +77,7 @@ App.getInitialProps = async ({ Component, ctx }: NextAppContext) => {
     layoutProps: {
       sections,
       navbarProps: {
+        titleLeftClass: '_shimmer',
         isUserLoggedIn,
         isUserPremium,
         title,
