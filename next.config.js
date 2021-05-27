@@ -73,6 +73,11 @@ const nextConfig = {
         destination: '/story/:slug', // Matched parameters can be used in the destination
         permanent: true,
     },
+    {
+      source: '/rental',
+        destination: '/story/rental', // Matched parameters can be used in the destination
+        permanent: true,
+    },
   ])
 };
 

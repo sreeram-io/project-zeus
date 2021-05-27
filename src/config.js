@@ -56,6 +56,7 @@ module.exports = {
         { title: 'About me', route: '/story/about-me' },
         { title: 'Next big step in life', route: '/story/next-big-step-in-life' },
         { title: 'My professional journey', route: '/story/my-professional-journey' },
+        { title: 'My room for rent', route: '/story/rental' },
         { title: 'Best photo I\'ve ever taken', route: '/story/best-photo-I\'ve-ever-taken' },
         // { title: 'How I organize my life', route: '/story/organize' },
         { title: 'The past decade (2010 - 2020)', route: '/story/the-past-decade' },
