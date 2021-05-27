@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { makeStyles } from '@material-ui/core';
 import {
   Markdown,
@@ -11,6 +11,7 @@ import isbot from 'isbot';
 import SocialLinks from '@/components/SocialLinks/SocialLinks';
 import { getUserData } from '@/store/app/app.api';
 import config from '@/config';
+import { scrollToTop } from '@/utils/helpers';
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -31,8 +32,13 @@ const useStyles = makeStyles(theme => ({
 
 const Page = ({ content, navigationProps }) => {
   const classes = useStyles();
+
+  useEffect(() => {
+    scrollToTop(document.getElementById('content'));
+  }, [content]);
+
   return (
-    <div className={classes.root}>
+    <div className={classes.root} id='content'>
       <Content className={classes.content}>
         <>
           <Markdown>

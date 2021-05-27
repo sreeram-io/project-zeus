@@ -34,4 +34,4 @@ I moved to Berlin in 2019 for yet another adventure to work for **Delivery Hero*
 
 The pandemic is about to get over and I decided that it was time to make another move. I looked at a potential few countries in Europe, Dubai and India, attended about 32 interviews, but, after much deliberation, I decided to go back to London. I will be working for **Bumble** as a Software Engineer. This means that I will have to give up on my EU citizenship which I was so close to getting. I wish brexit hadnt happened. Fingers crossed.
 
-<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>
+Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏

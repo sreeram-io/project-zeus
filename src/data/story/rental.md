@@ -59,4 +59,4 @@ Other details: Couples, pets (post consultation) allowed. Building was painted r
 Viewings will be held online from 26-31 April. I will be sharing a hangout invite. It will be a group meeting where I show the apartment. Please use that to ask any questions you might have.
 If interested, please write me on Facebook or Instagram.
 
-<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>
+Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏

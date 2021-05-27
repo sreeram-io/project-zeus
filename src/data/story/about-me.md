@@ -14,4 +14,4 @@ Here, I write about things I find interesting - the places I visit, the things I
 
 If you'd like to chat with me/attend my trainings/seek career advice/have a coffee, hit me up on LinkedIn or Instagram.
 
-<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>
+Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏

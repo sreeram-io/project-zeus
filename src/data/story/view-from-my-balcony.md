@@ -12,4 +12,4 @@ Trivandrum is an amazing city to live. Its green, clean, costal, with thriving, 
 
 Its also the capital of the most literate state in India.
 
-<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>
+Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏

@@ -32,4 +32,4 @@ It’s not to say that I have succeeded in every aspect of life. I do have some 
     I took the one less traveled by,
     And that has made all the difference.
 
-<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>
+Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏

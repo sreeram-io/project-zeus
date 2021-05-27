@@ -49,4 +49,4 @@ My plan was to use the websites suggested from my employer for temporary accomod
 You or your employer could do the booking for you. I booked it myself. I wanted to try Qatar Airways hospitality.
 
 
-<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>
+Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏

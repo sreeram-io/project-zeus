@@ -98,4 +98,4 @@ Sometimes, I just wished I had a t-shirt that says that "I am not an illegal imm
 
 Living there had its ups and downs, but eventually, when I look back, I miss the place. Corrie once said London will eventually get to you. I refuted it back then but I am beginning to realize she might have been right after all.
 
-<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>
+Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏
