@@ -28,7 +28,6 @@ import {
 //   IoMdAppstore
 // } from 'react-icons/io';
 // import { RiStackOverflowLine } from 'react-icons/ri';
-import cn from 'classnames';
 
 import styles from './SocialLinks.styles';
 
@@ -54,7 +53,7 @@ const SPOTIFY_LINK = 'https://open.spotify.com/user/31hw7qbylio2js7vn3qgfqfmnx2a
 // const JSFIDDLE_LINK = 'https://jsfiddle.net/sreeramofficial';
 // const DOCKERHUB_LINK = 'https://hub.docker.com/u/sreeram';
 
-const SocialLinks = ({ classes, _classes }) => <div className={cn(classes.social, _classes)}>
+const SocialLinks = ({ classes }) => <div className={classes.social}>
   {/* <Link className={classes.socialLink} href={GITHUB_LINK} name='sreeram padmanabhan github' rel='noreferrer' target='_blank'>
     <FaGithubSquare className={classes.socialIcon} />
     Sreeram padmanabhan github

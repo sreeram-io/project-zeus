@@ -22,16 +22,6 @@ It has been a topsy-turvy ride of so many ups and downs. Just like most people i
 
 **Learner to teacher**: In 2010, I learnt from others. Today, I mentor others.
 
-**Me over the years**
-
-<div style="display: flex; align-items: center; justify-content: center">
-  <img style="width: calc(33% - 2px); max-height: 150px; max-width:150px" alt='sreeram padmanabhan' src='/posts/blog/sreeram-3.png'/>
-  <img style="width: calc(33% - 2px); max-height: 150px; max-width:150px" alt='sreeram padmanabhan' src='/posts/blog/sreeram-2.png'/>
-  <img style="width: calc(33% - 2px); max-height: 150px; max-width:150px" alt='sreeram padmanabhan' src='/posts/blog/sreeram.jpg'/>
-</div>
-
-&nbsp;
-
 **Final thoughts**
 
 It’s not to say that I have succeeded in every aspect of life. I do have some way to go in my personal life but I think I have reached a reasonably good place in terms of my career, thanks to the risks I took in the last decade. But the coach in me is happy and proud. I will end it by quoting an excerpt from my favourite poem:
@@ -41,3 +31,5 @@ It’s not to say that I have succeeded in every aspect of life. I do have some 
     Two roads diverged in a wood, and I—
     I took the one less traveled by,
     And that has made all the difference.
+
+<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>

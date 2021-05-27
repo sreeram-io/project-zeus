@@ -9,3 +9,5 @@ On a cold night in December 2018, after dropping my friend at the Victoria Coach
 Anyway, I wanted to take some pictures of the eye. I also wanted to try and explore ways in which I could put the Apple iPhone 7 camera to the best use. I noticed that there were some wet patches on the embankments and I noticed the reflection of the eye. And thats how I got the idea of reflection photography. It was after about an hour of trying several things that I came up with this picture.
 
 I think this is the most time I spent to take the picture of something and it showed when I got an amazing response on Instagram and Facebook for this picture.
+
+<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>

@@ -43,4 +43,4 @@ It was a tough decision to make. But due to the visa restrictions in the UK and 
 
 I try to make 2 trips to India every year. I am working towards increasing the frequency. Where I will finally settle is still not clear.
 
-Thank you for reading.
+<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>

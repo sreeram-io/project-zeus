@@ -15,3 +15,5 @@ A few minutes into it, flying at 38,000 ft, I opened the window shade and I was 
 But, the coolest thing about it is, did you notice how the mountains appear to be very close and flat, like walking on snow? It just ceases to amaze me. The pilots must have a better picture than mine.
 
 Update: I posted this in Quora and someone pointed out to me that the place is Siverek, Sanliurfa, Turkey.
+
+<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>

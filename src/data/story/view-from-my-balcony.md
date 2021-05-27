@@ -11,3 +11,5 @@ This is only part of the view, on the other side, one can see the city, the sea,
 Trivandrum is an amazing city to live. Its green, clean, costal, with thriving, progressive, literate society and an emerging tech crowd. Its also safe for women than many other cities in India.
 
 Its also the capital of the most literate state in India.
+
+<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>

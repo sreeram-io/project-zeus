@@ -88,3 +88,5 @@ With everything organized, it became easier to follow my daily routine which is 
 - **0000** - Sleep.
 
 Following this strictly is very hard, impossible on some days. I do make some compromises when there are more important things to do. Like going out, social gatherings, family time or just to watch TV or listen to music. But I try to follow this as much as I can. And without this clearing of clutter, I am like a headless chicken.
+
+<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏</span>
