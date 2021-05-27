@@ -1,6 +1,6 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core';
-import { 
+import {
   Markdown,
   Content,
   Navigation,
@@ -8,6 +8,7 @@ import {
 import { getSession } from '@auth0/nextjs-auth0';
 import isbot from 'isbot';
 
+import SocialLinks from '@/components/SocialLinks/SocialLinks';
 import { getUserData } from '@/store/app/app.api';
 import config from '@/config';
 
@@ -38,6 +39,7 @@ const Page = ({ content, navigationProps }) => {
             {content}
           </Markdown>
           <Navigation {...navigationProps} />
+          <SocialLinks />
         </>
       </Content>
     </div>

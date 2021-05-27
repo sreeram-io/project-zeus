@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import { ThemeProvider } from '@material-ui/core/styles';
-import CssBaseline from '@material-ui/core/CssBaseline';
 import { END } from 'redux-saga';
 import type {
   AppProps as NextAppProps,
@@ -28,7 +27,6 @@ const App = ({ Component, pageProps, layoutProps }: MyAppProps) => {
 
   return (
     <ThemeProvider theme={theme}>
-      <CssBaseline />
       <Layout {...layoutProps}>
         <Component {...pageProps} />
       </Layout>

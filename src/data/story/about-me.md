@@ -1,6 +1,6 @@
 <img class="img img--left img--grow" loading="lazy" src="/posts/blog/sreeram.jpg" alt="sreeram padmanabhan" title="sreeram padmanabhan" />
 
-# Hello, I am Sreeram!
+## Hello, I am Sreeram!👋
 
 Hi there reader! I am Sreeram. Friends call me Sree or Siri. I am a Sofware Engineer and this is my personal website. I consider myself an artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency. I live in London and work for Bumble. Prior to that, I worked for Delivery Hero in Berlin and Wipro Technologies in Bangalore/Chennai/Kochi working in projects involving Nokia, Apple and Lloyds Banking Group.
 
@@ -12,6 +12,6 @@ Here, I write about things I find interesting - the places I visit, the things I
 
 ## Get in touch
 
-If you'd like to chat with me/attend my trainings/seek career advice/have a coffee, just find me at LinkedIn or Instagram.
+If you'd like to chat with me/attend my trainings/seek career advice/have a coffee, hit me up on LinkedIn or Instagram.
 
 <p align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्यवादः | Dankeschön 🙏</p>
