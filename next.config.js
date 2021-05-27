@@ -62,6 +62,18 @@ const nextConfig = {
     runtimeCaching,
     //...
   },
+  redirects: async () => ([
+    {
+      source: '/blog/:slug',
+        destination: '/story/:slug', // Matched parameters can be used in the destination
+        permanent: true,
+    },
+    {
+      source: '/photos/:slug',
+        destination: '/story/:slug', // Matched parameters can be used in the destination
+        permanent: true,
+    },
+  ])
 };
 
 module.exports = withPlugins([ withTM, withPWA ], nextConfig);
