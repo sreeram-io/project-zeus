@@ -69,11 +69,6 @@ const nextConfig = {
         permanent: true,
     },
     {
-      source: '/photos/:slug',
-        destination: '/story/:slug', // Matched parameters can be used in the destination
-        permanent: true,
-    },
-    {
       source: '/rental',
         destination: '/story/studio-for-rent-berlin', // Matched parameters can be used in the destination
         permanent: true,
