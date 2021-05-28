@@ -8,4 +8,4 @@ I had a 10 day London Pass to spend on 60 tourist destinations in London. On the
 
 London will forever by my favourite place.
 
-Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏
+

@@ -10,4 +10,4 @@ Anyway, I wanted to take some pictures of the eye. I also wanted to try and expl
 
 I think this is the most time I spent to take the picture of something and it showed when I got an amazing response on Instagram and Facebook for this picture.
 
-Thank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏
+

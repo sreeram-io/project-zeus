@@ -75,7 +75,7 @@ const nextConfig = {
     },
     {
       source: '/rental',
-        destination: '/story/rental', // Matched parameters can be used in the destination
+        destination: '/story/studio-for-rent-berlin', // Matched parameters can be used in the destination
         permanent: true,
     },
   ])
