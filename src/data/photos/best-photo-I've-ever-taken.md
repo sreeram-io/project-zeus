@@ -2,7 +2,9 @@
 
 # The best photo I've ever taken
 
-#### *05 Dec 2018, Westminster, London*
+#### *05 Apr 2021, London*
+
+<p />
 
 On a cold night in December 2018, after dropping my friend at the Victoria Coach station, I had a lot of time with me before going home. So I decided to stop by Westminster because it had been a long time since I went there. It was not the most pleasant of days because it had just rained. And London in winter after a rain with in the wind is not a great place to be at.
 

@@ -2,9 +2,9 @@
 
 # Next big step in life
 
-#### *02 June, 2021, Berlin*
+#### *02 June 2021, Berlin*
 
-&nbsp;
+<p />
 
 Today marks 4 things in my life.
 
