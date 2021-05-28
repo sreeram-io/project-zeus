@@ -56,7 +56,7 @@ module.exports = {
         { title: 'About me', route: '/story/about-me' },
         { title: 'Next big step in life', route: '/story/next-big-step-in-life' },
         { title: 'My professional journey', route: '/story/my-professional-journey' },
-        { title: 'Indians in Britian', route: '/story/indians-in-britain' },
+        // { title: 'Indians in Britian', route: '/story/indians-in-britain' },
         { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' },
         { title: 'Life in India/Germany/UK', route: '/story/life-in-de-uk' },
         { title: 'Moving to Germany', route: '/story/moving-to-germany' },
