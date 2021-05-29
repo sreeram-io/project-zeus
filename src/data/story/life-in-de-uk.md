@@ -2,6 +2,8 @@
 
 #### *23 August, 2020, Berlin*
 
+Note: As of June 2021, I moved back to the UK.
+
 This question runs in my mind every day. It’s my greatest dilemma. It could turn out to be my biggest regret if I don’t take the right decisions in the coming years. Ever since 2012, I have been moving cities. Ever since 2016, I have been moving countries. What next? What am I leaving behind? My answer is based on my experience at 30 while I am still single.
 
 Towards the end of 2019, I had 3 things in my hand. A job in Germany with a fat paycheck, a job in India with a fat paycheck and an option to continue living in the UK with a not so fat a check until 2022. Everything seemed good. I had to choose one.
@@ -15,13 +17,13 @@ Its difficult to give a straight answer to this question. There are pros and con
   - A life at home or a life somewhere else?
   - A life where I am with my loved ones or a life where I'm alone?
   - A safe, boring life or an adventurous, tumultuous life?
-  - A life where I countribute to your country or a life where I contribute to the world?
+  - A life where I countribute to my country or a life where I contribute to a different country?
 
 I considered the following things.
 
 **Monetary gains** - Everyone who says money isn't anything is just plain stupid. Its a means of quantifying your contribution to the society. At the same time, not using the money you make is stupid. At the time I made the decision, I would have made almost the same money after taxes in all 3 countries. But I knew that the money I make will grow rapidly in Germany. So, 0–1-0 🇮🇳🇩🇪🇬🇧
 
-**Career growth** - This seemed to better in DE with many developed countries fighting for the best talent out there. With the Blue card, I can travel and work in any EU country. In the UK or IN, this wouldnt have been possible. Also, post covid, with remote working options, a job in DE meant I could move freely anywhere in the world (with a tourist visa). And with a PR in just 2 years, I will be perfectly poised for a borderless life. This wouldn't have been possible in other countres. 0–2-0 🇮🇳🇩🇪🇬🇧
+**Career growth** - This seemed to be better in DE with many developed countries fighting for the best talent out there. With the Blue card, I can travel and work in any EU country. In the UK or IN, this wouldnt have been possible. Also, post covid, with remote working options, a job in DE meant I could move freely anywhere in the world (with a tourist visa). And with a PR in just 2 years, I will be perfectly poised for a borderless life. This wouldn't have been possible in other countres. 0–2-0 🇮🇳🇩🇪🇬🇧
 
 **Value to society** - I am of better value to India. But Germany is of better value to me in terms of my contribution to the world and the life I'd get for it. 0–3-0 🇮🇳🇩🇪🇬🇧
 
@@ -43,4 +45,4 @@ It was a tough decision to make. But due to the visa restrictions in the UK and 
 
 I try to make 2 trips to India every year. I am working towards increasing the frequency. Where I will finally settle is still not clear.
 
-
+<span align='center'>Thank you | நன்றி | നന്ദി | धन्यवाद | धन्यवादः | Dankeschön 🙏</span>

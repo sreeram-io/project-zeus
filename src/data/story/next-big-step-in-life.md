@@ -1,10 +1,10 @@
-<img class="img img--left img--grow" loading="lazy" src='https://images.squarespace-cdn.com/content/v1/57d03e423e00be61bf183b3d/1549481350844-U3289JBBQWPLJB9776NF/ke17ZwdGBToddI8pDm48kG87Sfbgg29A4BYEDq3OXvgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcwzM2vY4zcR8T4Jyx-ijnH3AX3fNmlFWTtLveLoXLwwuUl76mRIIOTkltMT5VW2q5/Bumble_lowres_web_2.png' />
+<img class="img img--left img--grow" loading="lazy" src='/posts/photos/bumble.jpg' />
 
 # Next big step in life
 
 #### *02 June 2021, Berlin*
 
-<p />
+&nbsp;
 
 Today marks 4 things in my life.
 

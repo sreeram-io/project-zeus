@@ -2,9 +2,10 @@
 
 # Trip to the top of Scotland
 
-#### *23 Feb 2020, Edinburgh*
+#### *24 Apr 2017, Edinburgh*
 
-<p />
+
+&nbsp;
 
 Seen above is the view from the top of Arthur's seat in Edinburgh, Scotland. Taken in April 2017, this was my 4th trip solo to a capital city.
 
@@ -29,4 +30,4 @@ Here's an excerpt from a song to discribe it:
     Down on creation
     And the only explanation I can find..
 
-
+&nbsp;

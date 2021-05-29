@@ -1,8 +1,8 @@
 # The past decade (2010 - 2020)
 
-#### *19 Aug 2020, Berlin*
+#### *1 Dec 2020, Berlin*
 
-<p />
+&nbsp;
 
 Amazing how I had just been thinking about this the other day and here was this question in Quora about the previous decacde. So I had to answer it.
 
@@ -22,9 +22,7 @@ It has been a topsy-turvy ride of so many ups and downs. Just like most people i
 
 **Learner to teacher**: I changed from learning from others to teaching others.
 
-**Final thoughts**
-
-It’s not to say that I have succeeded in every aspect of life. I do have some way to go in my personal life but I think I have reached a reasonably good place in terms of my career, thanks to the risks I took in the last decade. I will end it by quoting an excerpt from my favourite poem, The road not taken by Robert Frost:
+**Final thoughts**: It’s not to say that I have succeeded in every aspect of life. I do have some way to go in my personal life but I think I have reached a reasonably good place in terms of my career, thanks to the risks I took in the last decade. I will end it by quoting an excerpt from my favourite poem, The road not taken by Robert Frost:
 
     I shall be telling this with a sigh
     Somewhere ages and ages hence:
@@ -32,3 +30,4 @@ It’s not to say that I have succeeded in every aspect of life. I do have some 
     I took the one less traveled by,
     And that has made all the difference.
 
+&nbsp;

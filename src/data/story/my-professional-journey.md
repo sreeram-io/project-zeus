@@ -1,8 +1,8 @@
 # My professional journey
 
-#### *27 May 2021, Berlin*
+#### *23 Apr 2021, Berlin*
 
-<p />
+&nbsp;
 
 ## 2005-07 Blogger days
 

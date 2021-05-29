@@ -1,8 +1,10 @@
 <img class='img img--left img--grow' src='/posts/photos/trivandrum-view.jpg' alt='view from balcony in india' title='view from home' />
 
-# The view from my balcony in India
+# The view from my balcony
 
 #### *09 Sep 2020, Trivandrum, India*
+
+&nbsp;
 
 Seen above is the view from my home in Trivandrum. On a typical sunny day, it looks as if the heavens have descended on earth. I live in the 9th floor of a 12-floor apartment which is the only high rising apartment in the area which brings the cool breeze from all directions.
 

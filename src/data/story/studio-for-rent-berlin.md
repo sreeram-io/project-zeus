@@ -41,22 +41,19 @@ Other details: Couples, pets (post consultation) allowed. Building was painted r
 - **Mats** (Amazon, Fb Marketplace): 20€
 - **Things I inherited from previous tenant**: Kitchen worktop, bathroom installations, curtains, shelves, oven etc: 400€
 
-## Video
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YJLcTf8nLFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Pictures
+<!-- ## Pictures
 
 <img src="https://github.com/sreeramofficial/rental/blob/main/1.jpg?raw=true" />
 <img src="https://github.com/sreeramofficial/rental/blob/main/3.jpg?raw=true" />
 <img src="https://github.com/sreeramofficial/rental/blob/main/4.jpeg?raw=true" />
 <img src="https://github.com/sreeramofficial/rental/blob/main/5.jpeg?raw=true" />
 <img src="https://github.com/sreeramofficial/rental/blob/main/6.jpeg?raw=true" />
-<img src="https://github.com/sreeramofficial/rental/blob/main/7.jpeg?raw=true" />
+<img src="https://github.com/sreeramofficial/rental/blob/main/7.jpeg?raw=true" /> -->
 
 ## Viewings
+
 
 Viewings will be held online from 26-31 April. I will be sharing a hangout invite. It will be a group meeting where I show the apartment. Please use that to ask any questions you might have.
 If interested, please write me on Facebook or Instagram.
 
-
+<iframe class="img img--left img--grow" src="https://www.youtube.com/embed/YJLcTf8nLFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -84,7 +84,7 @@ export const getServerSideProps = async ({ query: { slug = '', post = '' }, req,
       content: require(`src/data${currentPath}.md`).default,
       navigationProps: {
         prev: sections[slug].links[index - 1] || null,
-        next: sections[slug].links[index + 1] || null,
+        next: sections[slug].links[index + 1] || sections[slug].links[0],
       },
     },
   };

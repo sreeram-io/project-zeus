@@ -54,20 +54,14 @@ module.exports = {
       paid: false,
       links: [
         { title: 'About me', route: '/story/about-me' },
-        { title: 'Next big step in life', route: '/story/next-big-step-in-life' },
-        { title: 'My professional journey', route: '/story/my-professional-journey' },
-        // { title: 'Indians in Britian', route: '/story/indians-in-britain' },
-        { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' },
-        { title: 'Life in India/Germany/UK', route: '/story/life-in-de-uk' },
-        { title: 'Moving to Germany', route: '/story/moving-to-germany' },
-        { title: 'The past decade (2010 - 2020)', route: '/story/the-past-decade' },
+        { title: 'Next big step in life', route: '/story/next-big-step-in-life' }, // 02/06/21
+        { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
+        { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
+        { title: 'The past decade', route: '/story/the-past-decade' }, // 01/12/20
+        { title: 'Moving to Germany', route: '/story/moving-to-germany' }, // 09/08/20
+        { title: 'Indians in Britian', route: '/story/indians-in-britain' }, // 01/08/17
+        // { title: 'Life in India/Germany/UK', route: '/story/life-in-de-uk' },
         // { title: 'How I organize my life', route: '/story/organize' },
-        // { title: 'Best photo I\'ve ever taken', route: '/photos/best-photo-I\'ve-ever-taken' },
-        // { title: 'View from the top of Scotland', route: '/photos/top-of-scotland' },
-        // { title: 'View from my balcony in India', route: '/photos/view-from-my-balcony' },
-        // { title: 'View from my desk', route: '/photos/view-from-my-desk' },
-        // { title: 'View from the airplane', route: '/photos/view-from-window-seat' },
-        // { title: 'View of the Shard', route: '/photos/view-of-the-shard' },
       ],
     },
     photos: {
@@ -78,11 +72,12 @@ module.exports = {
       auth: false,
       paid: false,
       links: [
-        { title: 'Best photo I\'ve ever taken', route: '/photos/best-photo-I\'ve-ever-taken' },
-        { title: 'View from the top of Scotland', route: '/photos/top-of-scotland' },
-        { title: 'View from my balcony in India', route: '/photos/view-from-my-balcony' },
-        { title: 'View from my desk', route: '/photos/view-from-my-desk' },
-        { title: 'View of the Shard', route: '/photos/view-of-the-shard' },
+        { title: 'My balcony in India', route: '/photos/view-from-my-balcony' }, // 09/09/20
+        { title: 'Best photo I\'ve ever taken', route: '/photos/best-photo-I\'ve-ever-taken' }, // 05/12/18
+        { title: 'View from my desk', route: '/photos/view-from-my-desk' }, // 19/11/18
+        { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken'}, // 25/06/17
+        { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
+        { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
       ],
     },
     // leetcode: {
@@ -137,16 +132,16 @@ module.exports = {
       links: [
       ],
     },
-    css: {
-      route: "/css",
-      title: "CSS",
-      img: "/sections/css.svg",
-      hidden: false,
-      auth: true,
-      paid: true,
-      links: [
-      ],
-    },
+    // css: {
+    //   route: "/css",
+    //   title: "CSS",
+    //   img: "/sections/css.svg",
+    //   hidden: false,
+    //   auth: true,
+    //   paid: true,
+    //   links: [
+    //   ],
+    // },
     react: {
       route: "/react",
       title: "React",
