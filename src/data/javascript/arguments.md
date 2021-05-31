@@ -1,5 +1,14 @@
 # Arguments
 
+Assume a function is invoked like this:
+
+```js
+add(1,2,3);
+```
+&nbsp;
+
+You would get the following outputs -
+
 ```js
 function add() {
   console.log(arguments); // [1, 2, 3, callee]
@@ -10,18 +19,9 @@ const add = () => {
 };
 
 function add(...args) {
-  return args.reduce((acc, num) => acc+= num); // 6
+  console.log(args); // [1, 2, 3]
+  console.log(arguments) // [1, 2, 3, callee]
 }
-
-function add() {
-  return [].slice.call(arguments).reduce((acc, num) => acc+= num); // 6
-}
-
-function add() {
-  return [...arguments].reduce((acc, num) => acc+= num); // 6
-}
-
-add(1,2,3);
 
 ```
 

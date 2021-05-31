@@ -108,10 +108,10 @@ module.exports = {
       auth: true,
       paid: true,
       links: [
-        // { title: 'Arguments', route: '/javascript/arguments' },
-        // { title: 'Call', route: '/javascript/call' },
-        // { title: 'Apply', route: '/javascript/apply' },
-        // { title: 'Bind', route: '/javascript/bind' },
+        { title: 'Call', route: '/javascript/call' },
+        { title: 'Apply', route: '/javascript/apply' },
+        { title: 'Bind', route: '/javascript/bind' },
+        { title: 'Arguments', route: '/javascript/arguments' },
         // { title: 'Context', route: '/javascript/context' },
         // { title: 'Closures', route: '/javascript/closures' },
         // { title: 'Constructor', route: '/javascript/constructor' },
@@ -122,16 +122,16 @@ module.exports = {
         // { title: 'Redux', route: '/javascript/redux' },
       ],
     },
-    node: {
-      route: "/nodejs",
-      title: "Node",
-      img: "/sections/node.svg",
-      hidden: false,
-      auth: true,
-      paid: true,
-      links: [
-      ],
-    },
+    // node: {
+    //   route: "/nodejs",
+    //   title: "Node",
+    //   img: "/sections/node.svg",
+    //   hidden: false,
+    //   auth: true,
+    //   paid: true,
+    //   links: [
+    //   ],
+    // },
     // css: {
     //   route: "/css",
     //   title: "CSS",
@@ -142,20 +142,20 @@ module.exports = {
     //   links: [
     //   ],
     // },
-    react: {
-      route: "/react",
-      title: "React",
-      img: "/sections/react.svg",
-      hidden: false,
-      auth: true,
-      paid: true,
-      links: [
-        // { title: 'Functional component template', route: '/react/functional-component-template' },
-        // { title: 'Container component template', route: '/react/container-component-template' },
-        // { title: 'Custom hooks in React', route: '/react/custom-hooks' },
-        // { title: 'Debounced fetch', route: '/react/debounced-fetch' },
-      ],
-    },
+    // react: {
+    //   route: "/react",
+    //   title: "React",
+    //   img: "/sections/react.svg",
+    //   hidden: false,
+    //   auth: true,
+    //   paid: true,
+    //   links: [
+    //     { title: 'Functional component template', route: '/react/functional-component-template' },
+    //     { title: 'Container component template', route: '/react/container-component-template' },
+    //     { title: 'Custom hooks in React', route: '/react/custom-hooks' },
+    //     { title: 'Debounced fetch', route: '/react/debounced-fetch' },
+    //   ],
+    // },
     // jest: {
     //   route: "/jest",
     //   title: "Jest",
@@ -168,16 +168,16 @@ module.exports = {
     //     { title: 'useEffect', route: '/jest/useEffect' },
     //   ],
     // },
-    devops: {
-      route: "/devops",
-      title: "DevOps",
-      img: "/sections/devops.svg",
-      hidden: false,
-      auth: true,
-      paid: true,
-      links: [
-      ],
-    },
+    // devops: {
+    //   route: "/devops",
+    //   title: "DevOps",
+    //   img: "/sections/devops.svg",
+    //   hidden: false,
+    //   auth: true,
+    //   paid: true,
+    //   links: [
+    //   ],
+    // },
     // web: {
     //   route: "/web",
     //   title: "Web",

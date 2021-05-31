@@ -33,8 +33,7 @@ const obj2 = {
 	lastName: 'Padmanabhan'
 };
 
-console.log(person1.fullName.call(obj2, 30, 'M'));
-// Sreeram Padmanabhan 30 M
+console.log(person1.fullName.call(obj2, 30, 'M')); // Sreeram Padmanabhan 30 M
 ```
 
 &nbsp;
