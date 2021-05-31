@@ -65,13 +65,23 @@ const nextConfig = {
   redirects: async () => ([
     {
       source: '/blog/:slug',
-        destination: '/story/:slug', // Matched parameters can be used in the destination
-        permanent: true,
+      destination: '/story/:slug', // Matched parameters can be used in the destination
+      permanent: true,
     },
     {
-      source: '/rental',
-        destination: '/story/studio-for-rent-berlin', // Matched parameters can be used in the destination
-        permanent: true,
+      source: '/story/view-from-my-balcony',
+      destination: '/photos/view-from-my-balcony',
+      permanent: true,
+    },
+    {
+      source: '/story/best-photo-I\'ve-ever-taken',
+      destination: '/photos/best-photo-I\'ve-ever-taken',
+      permanent: true,
+    },
+    {
+      source: '/story/view-of-the-shard',
+      destination: '/photos/view-of-the-shard',
+      permanent: true,
     },
   ])
 };
