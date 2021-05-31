@@ -33,16 +33,17 @@ const obj2 = {
 	lastName: 'Padmanabhan'
 };
 
-console.log(person1.fullName.apply(obj2, [30, 'M']));
-// Sreeram Padmanabhan 30 M
+console.log(person1.fullName.apply(obj2, [30, 'M'])); // Sreeram Padmanabhan 30 M
 ```
 
 &nbsp;
+
 ### Example 3 - Passing array as comma seperated arguments
 
 ```js
 const numbers = [1, 2, 3, 4, 5];
 
 console.log(Math.max.apply(null, numbers)); // 5
-console.log(Math.max(...numbers)); // 5
 ```
+
+&nbsp;

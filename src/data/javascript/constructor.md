@@ -32,3 +32,5 @@ const Node = val => {
 const a = new Node(2); // Uncaught TypeError: Node is not a constructor
 const b = Node(2);     // 2
 ```
+
+&nbsp;

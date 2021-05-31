@@ -1,4 +1,4 @@
-# Call
+# Call and its uses
 
 ### Example 1 - Passing context
 
@@ -44,5 +44,5 @@ console.log(person1.fullName.call(obj2, 30, 'M')); // Sreeram Padmanabhan 30 M
 const numbers = [1, 2, 3, 4, 5];
 
 console.log(Math.max.call(null, ...numbers)); // 5
-console.log(Math.max(...numbers)); // 5
 ```
+&nbsp;

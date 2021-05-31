@@ -25,6 +25,4 @@ function add(...args) {
 
 ```
 
-## References
-
-[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
+&nbsp;

@@ -30,3 +30,5 @@ const debouncedLog = debounce(console.log, 1000);
 	debouncedLog(12);   // 12
 })();
 ```
+
+&nbsp;

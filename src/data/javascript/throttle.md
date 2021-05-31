@@ -11,3 +11,5 @@ const throttle = function (fn, duration) {
   };
 };
 ```
+
+&nbsp;

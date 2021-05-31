@@ -30,3 +30,4 @@ const n2 = new Add2(10, 20);
 console.log(n2);  // { lVal: 10, rVal: 20 }
 
 ```
+&nbsp;
