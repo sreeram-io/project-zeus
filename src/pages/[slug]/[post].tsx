@@ -42,7 +42,7 @@ const Page = ({ content, navigationProps }) => {
       <Content className={classes.content}>
         <>
           <Markdown>
-            {`${content}\nThank you | நன்றி | നന്ദി | धन्यवाद | धन्योस्मि | Dankeschön 🙏`}
+            {`${content}\nThank you | நன்றி | നന്ദി | धन्यवाद | Dankeschön 🙏`}
           </Markdown>
           <Navigation {...navigationProps} />
           <SocialLinks />
