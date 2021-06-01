@@ -28,6 +28,10 @@ const useStyles = makeStyles(theme => ({
       margin: '20px auto',
     },
   },
+  navigation: {
+    position: 'sticky',
+    bottom: 0,
+  }
 }));
 
 const Page = ({ content, navigationProps }) => {
@@ -44,7 +48,7 @@ const Page = ({ content, navigationProps }) => {
           <Markdown>
             {`${content}\nThank you | நன்றி | നന്ദി | धन्यवाद | Dankeschön 🙏`}
           </Markdown>
-          <Navigation {...navigationProps} />
+          <Navigation {...navigationProps} className={classes.navigation} />
           <SocialLinks />
         </>
       </Content>

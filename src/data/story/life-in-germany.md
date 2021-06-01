@@ -1,3 +1,0 @@
-In 2019, when I took the decision to leave London for Berlin, the pandemic was looming round the corner. As it went on wreaking havoc, here I was living a life in solitude not exposed to it. Not speaking any German made me socially distant by default. Now as we see the light at the end of the tunnel, I have decided to take another turn. It is as if I came to Germany just to live a life of exile while the pandemic went on its rage spree elsewhere.
-
-

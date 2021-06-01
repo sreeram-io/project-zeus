@@ -2,7 +2,7 @@
 
 # The majestic view of the Shard
 
-#### *28 Dec 2016, Tower Bridge, London*
+#### *28 Dec 2016, London*
 
 &nbsp;
 

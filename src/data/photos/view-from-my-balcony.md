@@ -2,7 +2,7 @@
 
 # The view from my balcony
 
-#### *09 Sep 2020, Trivandrum, India*
+#### *09 Sep 2018, Trivandrum*
 
 &nbsp;
 

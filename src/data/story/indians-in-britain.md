@@ -1,6 +1,6 @@
 # How are Indians treated in Britain?
 
-#### *1 Aug 2017, London*
+#### *01 Aug 2017, London*
 
 &nbsp;
 

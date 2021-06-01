@@ -1,6 +1,6 @@
 # The past decade (2010 - 2020)
 
-#### *1 Dec 2020, Berlin*
+#### *01 Dec 2020, Berlin*
 
 &nbsp;
 

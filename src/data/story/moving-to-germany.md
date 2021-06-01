@@ -1,6 +1,6 @@
 # Moving to Germany from India
 
-#### *09 Aug, 2020, Berlin*
+#### *09 Aug 2020, Berlin*
 
 &nbsp;
 

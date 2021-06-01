@@ -1,6 +1,6 @@
 # Why I chose a life in DE over IN and UK
 
-#### *23 August, 2020, Berlin*
+#### *23 Aug 2020, Berlin*
 
 Note: As of June 2021, I moved back to the UK.
 

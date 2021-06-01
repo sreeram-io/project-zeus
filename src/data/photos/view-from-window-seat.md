@@ -2,7 +2,7 @@
 
 # The coolest thing I've seen from an airplane
 
-#### *8 Mar 2019, Air Emirates*
+#### *08 Mar 2019, Air Emirates*
 
 I was on my way to London from Thiruvananthapuram in an Emirates Airlines.
 

@@ -72,9 +72,9 @@ module.exports = {
       auth: false,
       paid: false,
       links: [
-        { title: 'My balcony in India', route: '/photos/view-from-my-balcony' }, // 09/09/20
         { title: 'Best photo I\'ve ever taken', route: '/photos/best-photo-I\'ve-ever-taken' }, // 05/12/18
         { title: 'View from my desk', route: '/photos/view-from-my-desk' }, // 19/11/18
+        { title: 'My balcony in India', route: '/photos/view-from-my-balcony' }, // 09/09/18
         { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken'}, // 25/06/17
         { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
         { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
