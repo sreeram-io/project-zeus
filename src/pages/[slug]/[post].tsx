@@ -31,6 +31,7 @@ const useStyles = makeStyles(theme => ({
   navigation: {
     position: 'sticky',
     bottom: 0,
+    borderRadius: 0,
   }
 }));
 

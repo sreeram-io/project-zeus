@@ -57,10 +57,10 @@ module.exports = {
         { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
         { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
         { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
+        { title: 'Life in IN/DE/UK', route: '/story/life-in-de-uk' }, // 30/11/20
         { title: 'The past decade', route: '/story/the-past-decade' }, // 01/12/20
         { title: 'Moving to Germany', route: '/story/moving-to-germany' }, // 09/08/20
         { title: 'Indians in Britian', route: '/story/indians-in-britain' }, // 01/08/17
-        // { title: 'Life in India/Germany/UK', route: '/story/life-in-de-uk' },
         // { title: 'How I organize my life', route: '/story/organize' },
       ],
     },
