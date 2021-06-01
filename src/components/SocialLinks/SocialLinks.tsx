@@ -36,7 +36,7 @@ import styles from './SocialLinks.styles';
 // const LEETCODE_LINK = 'https://leetcode.com/sreeramofficial/';
 // const HACKERRANK_LINK = 'https://www.hackerrank.com/sreeramofficial';
 const LINKEDIN_LINK = 'https://www.linkedin.com/in/sreeramofficial/';
-const INSTAGRAM_LINK = 'https://instagram.com/sreeramofficial/';
+const INSTAGRAM_LINK = 'https://instagram.com/sreeram.io/';
 const TWITTER_LINK = 'https://twitter.com/sreeramofficial/';
 const QUORA_LINK = 'https://www.quora.com/profile/Sreeram-Padmanabhan-1';
 const SPOTIFY_LINK = 'https://open.spotify.com/user/31hw7qbylio2js7vn3qgfqfmnx2a?si=B3d-wHfrRzWlNXgd9_7xPg&nd=1';

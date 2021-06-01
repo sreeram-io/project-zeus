@@ -54,7 +54,7 @@ module.exports = {
       paid: false,
       links: [
         { title: 'About me', route: '/story/about-me' },
-        { title: 'Next big step in life', route: '/story/next-big-step-in-life' }, // 02/06/21
+        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
         { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
         { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
         { title: 'The past decade', route: '/story/the-past-decade' }, // 01/12/20

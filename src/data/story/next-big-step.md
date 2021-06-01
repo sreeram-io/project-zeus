@@ -8,7 +8,7 @@
 
 This week marks 4 things in my life.
 
-**Firstly**, Monday was my last day at work at Delivery Hero in Berlin. Great company, hyper growth unicorn start up, great engineers, greater people. Wouldn't think twice to working here in the future. And that means, I am officially unemployed now. Thankfully not for long.
+**Firstly**, Monday was my last day at work at Delivery Hero in Berlin. After working for almost 2 years, I decided to turn to greener pastures. Great company, hyper growth unicorn start up, great engineers, greater people. Wouldn't think twice to working here in the future. And that means, I am officially unemployed now. Thankfully not for long.
 
 **Secondly**, exactly on Tuesday 10 years ago, I started my first job for about 100$/month after almost dropping out of college. During this time, I made some amazing friends for life, made and broke from relationships, learnt to socialise, integrate and share, taught for free, travelled for cheap, cooked with less, learnt languages, cultures and histories and I worked for some great organisations which genuinely work for the betterment of the world.
 
@@ -16,4 +16,4 @@ This week marks 4 things in my life.
 
 **Lastly**, it just so happens to be my birthday. 🎉🥳
 
-All this while, I had been just trying and trying, steadfast in the relentless pursuit of the next big thing in life. Here is where I think I should stop running the rat race and start living. I will be cutting down on the time I spend in the internet.
+All this while, I had been just trying and trying, steadfast in the relentless pursuit of the next big thing in life. Here is where I think I should stop running the rat race and start living.

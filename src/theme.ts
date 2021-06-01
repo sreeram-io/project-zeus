@@ -17,7 +17,7 @@ const theme = createMuiTheme({
     },
   },
   typography: {
-    fontSize: 13,
+    // fontSize: 13,
     fontFamily: 'Ubuntu, Roboto, Helvetica, Arial, sans-serif',
     fontWeightLight: 300,
     fontWeightRegular: 400,
