@@ -7,6 +7,7 @@ import {
 } from '@sreeram.io/alpha';
 import { getSession } from '@auth0/nextjs-auth0';
 import isbot from 'isbot';
+import { Typography } from '@material-ui/core';
 
 import SocialLinks from '@/components/SocialLinks/SocialLinks';
 import { getUserData } from '@/store/app/app.api';
@@ -32,6 +33,11 @@ const useStyles = makeStyles(theme => ({
     position: 'sticky',
     bottom: 0,
     borderRadius: 0,
+  },
+  footer: {
+    textAlign: 'center',
+    display: 'block',
+    width: '100%',
   }
 }));
 
@@ -51,6 +57,7 @@ const Page = ({ content, navigationProps }) => {
           </Markdown>
           <Navigation {...navigationProps} className={classes.navigation} />
           <SocialLinks />
+          <Typography variant="caption" className={classes.footer}>लोकाः समस्ताः सुखिनोभवंतु ॥</Typography>
         </>
       </Content>
     </div>
