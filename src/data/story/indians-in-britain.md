@@ -32,21 +32,21 @@ The first things that come to their mind when it comes to India are - curry, pov
 
 ## Pleasant stories
 
-I was surprised when a colleague of mine, Ade, told me I'm one of the smartest persons he knows. And I was like WTF? In India, I was just average.
+I was surprised when a colleague of mine, Ad, told me I'm one of the smartest persons he knows. And I was like WTF? In India, I was just average.
 
-One of my best friends is a Greek geek, Pavlos, who lives in London who has setup his own business there.
+One of my best friends is a Greek geek, Pa, who lives in London who has setup his own business there.
 
-My collegues were amazing. Anurag, Joel, Simon, Julie, Ade, Miguel, Graham and a lot of others. They were eager to talk, to listen, to party. Going to work was a pleasure. We were like a family for 3 years delivering great things. I wish that time never ended.
+My collegues were amazing. An, Jo, Si, Ju, Ad, Mi, Gr and a lot of others. They were eager to talk, to listen, to party. Going to work was a pleasure. We were like a family for 3 years delivering great things. I wish that time never ended.
 
 I made friends with the Turkish restaurant owners of Cirrik in Dalston. I am sure they'd recognize me the next time I see them because I was a regular there.
 
-Once during a conversation about Brexit and immigration, I was talking about the insecurities I had as an immigrant and my friend Jenna insisted that I'm more a Londoner than an immigrant. Even I myself didnt think like that. That was a warm experience.
+Once during a conversation about Brexit and immigration, I was talking about the insecurities I had as an immigrant and my friend Je insisted that I'm more a Londoner than an immigrant. Even I myself didnt think like that. That was a warm experience.
 
-A friend of mine, Matina, travelled to India recently and said she had one of the best experiences ever. I visited Beligum with her.
+A friend of mine, Ma, travelled to India recently and said she had one of the best experiences ever. I visited Beligum with her.
 
-I had a friend, Rosie, who I talked to about my insecurities and she put up a good effort to help me out of it. A true Londoner.
+I had a friend, Ro, who I talked to about my insecurities and she put up a good effort to help me out of it. A true Londoner.
 
-Last but not the least, Corrie, who was my flatmate for a year, we became good friends very quickly, I used to share the things I cooked with her, she cooked me Italian Risotto, we talked about all random things under the earth, we still do even after all those times.
+Last but not the least, Co, who was my flatmate for a year, we became good friends very quickly, I used to share the things I cooked with her, she cooked me Italian Risotto, we talked about all random things under the earth, we still do even after all those times.
 
 ## Bad things
 
@@ -74,6 +74,6 @@ Once after a late night out, I had to take my friend to her home as she was too 
 
 ## Conclusion
 
-I have come to realise that there is indeed a small degree of discrimination towards immigrants, towards people of color. But I am giving them the benifit of the doubt. Because would I face it if I moved to a different part in India? Probably yes. Would I discrimate someone based on my preconcieved notions? I probably have. It also has to do with the mindset of immigrants in general. Does everyone want to integrate with the society, live like a Roman when in Rome instead? I dont think so. And that is a problem.
+I have come to realise that there is indeed a small degree of discrimination towards immigrants, towards people of color. But I am giving them the benifit of the doubt. Because would I face it if I moved to a different part in India? Absolutely. Would I discrimate someone based on my preconcieved notions? I probably have. It also has to do with the mindset of immigrants in general. Does everyone want to integrate with the society, live like a Roman when in Rome instead? I dont think so. And that is a problem.
 
 Living there had its ups and downs, but eventually, when I look back, I miss the place. Corrie once said London will eventually get to you. I refuted it back then but I am beginning to realize she might have been right after all.
