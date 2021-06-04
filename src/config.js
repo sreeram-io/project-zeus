@@ -23,16 +23,29 @@ module.exports = {
     orgImage: `${domain}/img/icon-256.png`,
   },
   seed: {
-    short_name: "Web of thoughts",
-    name: "Web of thoughts",
+    short_name: "sreeram.io",
+    name: "sreeram.io",
     start_url: "/",
-    background_color: "#ffffff",
+    background_color: "#000000",
     display: "standalone",
+    description: "Sreeram Padmanabhan's app.",
     theme_color: "#0563d8",
-    icons: [ {
-      src: "/img/icon-192.png",
+    icons: [{
+      src: "/img/icon-22.png",
       type: "image/png",
-      sizes: "192x192",
+      sizes: "22x22",
+    }, {
+      src: "/img/icon-32.png",
+      type: "image/png",
+      sizes: "32x32",
+    }, {
+      src: "/img/icon-64.png",
+      type: "image/png",
+      sizes: "64x64",
+    }, {
+      src: "/img/icon-100.png",
+      type: "image/png",
+      sizes: "100x100",
     }, {
       src: "/img/icon-512.png",
       type: "image/png",
@@ -41,8 +54,12 @@ module.exports = {
       src: "/img/maskable_icon.png",
       sizes: "196x196",
       type: "image/png",
-      purpose: "any maskable",
-    } ],
+      purpose: "maskable",
+    }],
+    related_applications: [{
+      platform: "play",
+      url: "https://play.google.com/store/apps/details?id=io.sreeram.twa"
+    }]
   },
   sections: {
     story: {
