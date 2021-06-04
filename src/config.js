@@ -7,7 +7,7 @@ module.exports = {
   description: 'Web of thoughts',
   seo: {
     author: 'Sreeram Padmanabhan',
-    themeColor: '#0563d8',
+    themeColor: '#000000',
     description: 'An artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency.',
     domain,
     gtmId: 'GTM-KFQNDM8',
@@ -29,7 +29,7 @@ module.exports = {
     background_color: "#000000",
     display: "standalone",
     description: "Sreeram Padmanabhan's app.",
-    theme_color: "#0563d8",
+    theme_color: "#000000",
     icons: [{
       src: "/img/icon-22.png",
       type: "image/png",
