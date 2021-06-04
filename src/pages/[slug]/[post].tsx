@@ -38,6 +38,7 @@ const useStyles = makeStyles(theme => ({
     textAlign: 'center',
     display: 'block',
     width: '100%',
+    fontStyle: 'italic',
   }
 }));
 
@@ -57,7 +58,7 @@ const Page = ({ content, navigationProps }) => {
           </Markdown>
           <Navigation {...navigationProps} className={classes.navigation} />
           <SocialLinks />
-          <Typography variant="caption" className={classes.footer}>लोकाः समस्ताः सुखिनोभवंतु ॥</Typography>
+          <Typography variant="caption" className={classes.footer}>If even one gets inspired, its a victory.</Typography>
         </>
       </Content>
     </div>
