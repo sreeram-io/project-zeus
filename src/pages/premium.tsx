@@ -49,10 +49,10 @@ const Premium = () => {
             title='Sreeram Padmanabhan' />
           <CardContent>
             <Typography gutterBottom variant='h6' component='h2'>
-              Premium <span style={{ float: 'right' }}>€4.99</span>
+              Premium <span style={{ float: 'right' }}>₹ 999</span>
             </Typography>
             <Typography variant='body2' color='textSecondary' component='p'>
-              1 year access to all paid content. (50% OFF)
+              Lifetime access!
             </Typography>
           </CardContent>
         </CardActionArea>
