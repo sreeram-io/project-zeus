@@ -89,7 +89,7 @@ App.getInitialProps = async ({ Component, ctx }: NextAppContext) => {
       sidebarContentProps: {
         isUserLoggedIn,
         isUserPremium,
-        sections,
+        sections: sections.filter(section => !section.hidden),
       },
       bottomBarProps: {
         value: index,

@@ -66,7 +66,7 @@ module.exports = {
       route: "/story",
       title: "My Story",
       img: "/sections/blog.svg",
-      hidden: true,
+      hidden: false,
       auth: false,
       paid: false,
       links: [
@@ -85,14 +85,14 @@ module.exports = {
       route: '/photos',
       title: 'Photos',
       img: '/sections/photos.svg',
-      hidden: true,
+      hidden: false,
       auth: false,
       paid: false,
       links: [
         { title: 'Best photo I\'ve ever taken', route: '/photos/best-photo-I\'ve-ever-taken' }, // 05/12/18
         { title: 'View from my desk', route: '/photos/view-from-my-desk' }, // 19/11/18
         { title: 'My balcony in India', route: '/photos/view-from-my-balcony' }, // 09/09/18
-        { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken'}, // 25/06/17
+        { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
         { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
         { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
       ],
@@ -107,12 +107,12 @@ module.exports = {
       links: [
         { title: 'Closures', route: '/javascript/closures' },
         { title: 'Constructor', route: '/javascript/constructor' },
-        { title: 'Rest and Spread', route: '/javascript/rest-spread'},
+        { title: 'Rest and Spread', route: '/javascript/rest-spread' },
         { title: 'Arguments', route: '/javascript/arguments' },
         { title: 'Call method', route: '/javascript/call' },
         { title: 'Apply method', route: '/javascript/apply' },
         { title: 'Bind method', route: '/javascript/bind' },
-        { title: 'Implementation of bind', route: '/javascript/bind-implementation'},
+        { title: 'Implementation of bind', route: '/javascript/bind-implementation' },
         { title: 'Context', route: '/javascript/context' },
         { title: 'Class', route: '/javascript/class' },
         { title: 'Promises', route: '/javascript/promises' },
@@ -202,7 +202,7 @@ module.exports = {
         { title: 'Unit testing setup', route: '/web/unit-testing-using-karma-jasmine-enzyme' },
         { title: 'Code coverage using Istanbul', route: '/web/code-coverage-using-istanbul' },
         { title: 'Common web vulnerabilities', route: '/web/common-web-vulnerabilities' },
-        { title: 'The tech behind this website', route: '/web/tech-behind-this-website'}
+        { title: 'The tech behind this website', route: '/web/tech-behind-this-website' }
       ],
     },
     // interview: {
@@ -219,25 +219,35 @@ module.exports = {
     //     { title: 'Bulb 2021 - II', route: '/interview/bulb-2' },
     //   ],
     // },
-  leetcode: {
-    route: "/leetcode",
-    title: "Leetcode",
-    img: "/sections/leetcode.svg",
-    hidden: false,
-    auth: true,
-    paid: true,
-    links: [
-      { title: 'Leetcode #1', route: '/leetcode/leetcode-1' },
-      { title: 'Leetcode #2', route: '/leetcode/leetcode-2' },
-      { title: 'Leetcode #3', route: '/leetcode/leetcode-3' },
-      { title: 'Leetcode #4', route: '/leetcode/leetcode-4' },
-      { title: 'Leetcode #5', route: '/leetcode/leetcode-5' },
-      { title: 'Leetcode #6', route: '/leetcode/leetcode-6' },
-      { title: 'Leetcode #7', route: '/leetcode/leetcode-7' },
-      { title: 'Leetcode #8', route: '/leetcode/leetcode-8' },
-      { title: 'Leetcode #9', route: '/leetcode/leetcode-9' },
-      { title: 'Leetcode #10', route: '/leetcode/leetcode-10' },
-    ],
-  },
+    leetcode: {
+      route: "/leetcode",
+      title: "Leetcode",
+      img: "/sections/leetcode.svg",
+      hidden: false,
+      auth: true,
+      paid: true,
+      links: [
+        { title: 'Leetcode #1', route: '/leetcode/leetcode-1' },
+        { title: 'Leetcode #2', route: '/leetcode/leetcode-2' },
+        { title: 'Leetcode #3', route: '/leetcode/leetcode-3' },
+        { title: 'Leetcode #4', route: '/leetcode/leetcode-4' },
+        { title: 'Leetcode #5', route: '/leetcode/leetcode-5' },
+        { title: 'Leetcode #6', route: '/leetcode/leetcode-6' },
+        { title: 'Leetcode #7', route: '/leetcode/leetcode-7' },
+        { title: 'Leetcode #8', route: '/leetcode/leetcode-8' },
+        { title: 'Leetcode #9', route: '/leetcode/leetcode-9' },
+        { title: 'Leetcode #10', route: '/leetcode/leetcode-10' },
+      ],
+    },
+    zaxis: {
+      route: "http://z.sreeram.io",
+      title: "Z-Axis",
+      img: "/sections/zaxis.png",
+      hidden: true,
+      auth: true,
+      paid: true,
+      links: [
+      ],
+    }
   },
 };

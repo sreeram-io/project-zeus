@@ -21,6 +21,7 @@ const useStyles = makeStyles(theme => ({
   },
   card: {
     maxWidth: 300,
+    padding: 10,
     margin: 'auto',
     '&:first-child': {
       marginRight: 20,
@@ -44,15 +45,11 @@ const Premium = () => {
           <CardMedia
             component='img'
             alt='Sreeram Padmanabhan'
-            height='195'
             image='/sections/dev.svg'
             title='Sreeram Padmanabhan' />
           <CardContent>
             <Typography gutterBottom variant='h6' component='h2'>
-              Premium <span style={{ float: 'right' }}>₹ 999</span>
-            </Typography>
-            <Typography variant='body2' color='textSecondary' component='p'>
-              Lifetime access!
+            Lifetime membership <span style={{ float: 'right' }}>₹ 999</span>
             </Typography>
           </CardContent>
         </CardActionArea>
