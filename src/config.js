@@ -186,12 +186,6 @@ module.exports = {
         { title: 'The past decade', route: '/story/the-past-decade' }, // 01/12/20
         { title: 'Moving to Germany', route: '/story/moving-to-germany' }, // 09/08/20
         { title: 'Indians in Britian', route: '/story/indians-in-britain' }, // 01/08/17
-        { title: 'Best photo I\'ve ever taken', route: '/photos/best-photo-I\'ve-ever-taken' }, // 05/12/18
-        { title: 'View from my desk', route: '/photos/view-from-my-desk' }, // 19/11/18
-        { title: 'My balcony in India', route: '/photos/view-from-my-balcony' }, // 09/09/18
-        { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
-        { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
-        { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
         // { title: 'How I organize my life', route: '/story/organize' },
       ],
     },
@@ -239,21 +233,21 @@ module.exports = {
     //     { title: 'Bulb 2021 - II', route: '/interview/bulb-2' },
     //   ],
     // },
-    // photos: {
-    //   route: '/photos',
-    //   title: 'Photos',
-    //   img: '/sections/photos.svg',
-    //   hidden: false,
-    //   auth: false,
-    //   paid: false,
-    //   links: [
-    //     { title: 'Best photo I\'ve ever taken', route: '/photos/best-photo-I\'ve-ever-taken' }, // 05/12/18
-    //     { title: 'View from my desk', route: '/photos/view-from-my-desk' }, // 19/11/18
-    //     { title: 'My balcony in India', route: '/photos/view-from-my-balcony' }, // 09/09/18
-    //     { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
-    //     { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
-    //     { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
-    //   ],
-    // },
+    photos: {
+      route: '/photos',
+      title: 'Photos',
+      img: '/sections/photos.svg',
+      hidden: false,
+      auth: false,
+      paid: false,
+      links: [
+        { title: 'Best photo I\'ve ever taken', route: '/photos/best-photo-I\'ve-ever-taken' }, // 05/12/18
+        { title: 'View from my desk', route: '/photos/view-from-my-desk' }, // 19/11/18
+        { title: 'My balcony in India', route: '/photos/view-from-my-balcony' }, // 09/09/18
+        { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
+        { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
+        { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
+      ],
+    },
   },
 };
