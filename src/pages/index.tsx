@@ -1,6 +1,8 @@
 import React, { Fragment } from 'react';
 import { NextPage } from 'next';
-import { Navigation } from '@sreeram.io/alpha';
+import {
+  Alert
+} from '@sreeram.io/alpha';
 import { makeStyles } from '@material-ui/core';
 
 const useStyles = makeStyles(theme => ({
@@ -8,16 +10,20 @@ const useStyles = makeStyles(theme => ({
     width: 250,
     marginLeft: 'auto',
     marginRight: 'auto',
-  }
+  },
+  alert: {
+    top: 'initial',
+    bottom: 60,
+  },
 }));
 
 const Index: NextPage = () => {
   const classes = useStyles();
 
   return <Fragment>
-      <img className='img img--center animate-up-down' title='blog' loading='lazy' alt='blog' src={'/sections/dev.svg'} height='175' width='300' />
-      <Navigation className={classes.navigation} prev={{ route: '/story' , title: 'My Story' }} next={{ route: '/photos' , title: 'Photos' }} />
-    </Fragment>
+    <img className='img img--center animate-up-down' title='blog' loading='lazy' alt='blog' src={'/sections/dev.svg'} height='175' width='300' />
+    <Alert duration={10000} type='success' className={classes.alert}>Choose one of the sections below.</Alert>
+  </Fragment>
 };
 
 export default Index;

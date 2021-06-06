@@ -20,7 +20,7 @@ const useStyles = makeStyles(theme => ({
     flexWrap: 'wrap',
   },
   card: {
-    maxWidth: 300,
+    maxWidth: 280,
     padding: 10,
     margin: 'auto',
     '&:first-child': {

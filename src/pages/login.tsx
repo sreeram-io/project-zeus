@@ -13,7 +13,8 @@ import {
 
 const useStyles = makeStyles(theme => ({
   card: {
-    maxWidth: 300,
+    maxWidth: 280,
+    padding: 10,
     margin: 'auto',
     '&:first-child': {
       marginRight: 20,
