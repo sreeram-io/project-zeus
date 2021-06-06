@@ -2,7 +2,7 @@
 
 ## Hello, I am Sreeram!👋
 
-Hi there! I am Sreeram. Friends call me Sree or Siri. I am a Web Developer. The web is my world and I consider myself an artist painting it with the colors of JavaScript with a touch of creativity.
+Hi there! I am Sreeram. Friends call me Sree or Siri. I am a Web Developer. I consider myself an artist in the world of web painting it with the brushes of Javascript and the colors of creativity.
 
 I am due to join Bumble in London in a few days. Previously, I worked for Delivery Hero in Berlin. And before that, I worked for Wipro Digital in various parts of India working in projects involving Nokia and Apple before moving to London to work for Lloyds Banking Group where I spent 3 years.
 

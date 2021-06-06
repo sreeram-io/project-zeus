@@ -8,7 +8,7 @@ module.exports = {
   seo: {
     author: 'Sreeram Padmanabhan',
     themeColor: '#000000',
-    description: 'An artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency.',
+    description: 'An artist in the world of web painting it with the brushes of Javascript and the colors of creativity.',
     domain,
     gtmId: 'GTM-KFQNDM8',
     keywords: 'sreer.am, sreeram, #sreeram, sreeram padmanabhan, sreeram god, sreeram movie, sreeram actor, jsdrome, siri, london, berlin, india, uk, germany, trivandrum, web, web developer, web engineer, creativity, Design your life, engineer, frontend, delivery hero, tech lead, wipro, mjam, lloyds bank, leetcode, leetcode solutions, leetcode javascript solutions',
@@ -62,6 +62,31 @@ module.exports = {
     }]
   },
   sections: {
+    story: {
+      route: "/story",
+      title: "My Story",
+      img: "/sections/blog.svg",
+      hidden: false,
+      auth: false,
+      paid: false,
+      links: [
+        { title: 'About me', route: '/story/about-me' },
+        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
+        { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
+        { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
+        { title: 'My balcony in India', route: '/story/view-from-my-balcony' }, // 14/02/21
+        { title: 'Life in IN/DE/UK', route: '/story/life-in-de-uk' }, // 30/11/20
+        { title: 'The past decade', route: '/story/the-past-decade' }, // 01/12/20
+        { title: 'Moving to Germany', route: '/story/moving-to-germany' }, // 09/08/20
+        { title: 'Best photo I\'ve ever taken', route: '/story/best-photo-I\'ve-ever-taken' }, // 05/12/18
+        { title: 'View from my desk', route: '/story/view-from-my-desk' }, // 19/11/18
+        { title: 'Indians in Britian', route: '/story/indians-in-britain' }, // 01/08/17
+        { title: 'Paragliding at Interlaken', route: '/story/paragliding-at-interlaken' }, // 25/06/17
+        { title: 'Top of Scotland', route: '/story/top-of-scotland' }, // 24/04/17
+        { title: 'Shard from the tower', route: '/story/view-of-the-shard' }, // 28/12/2016
+        // { title: 'How I organize my life', route: '/story/organize' },
+      ],
+    },
     javascript: {
       route: "/javascript",
       title: "JavaScript",
@@ -170,25 +195,6 @@ module.exports = {
     //   links: [
     //   ],
     // },
-    story: {
-      route: "/story",
-      title: "My Story",
-      img: "/sections/blog.svg",
-      hidden: false,
-      auth: false,
-      paid: false,
-      links: [
-        { title: 'About me', route: '/story/about-me' },
-        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
-        { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
-        { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
-        { title: 'Life in IN/DE/UK', route: '/story/life-in-de-uk' }, // 30/11/20
-        { title: 'The past decade', route: '/story/the-past-decade' }, // 01/12/20
-        { title: 'Moving to Germany', route: '/story/moving-to-germany' }, // 09/08/20
-        { title: 'Indians in Britian', route: '/story/indians-in-britain' }, // 01/08/17
-        // { title: 'How I organize my life', route: '/story/organize' },
-      ],
-    },
     // node: {
     //   route: "/nodejs",
     //   title: "Node",
@@ -233,21 +239,5 @@ module.exports = {
     //     { title: 'Bulb 2021 - II', route: '/interview/bulb-2' },
     //   ],
     // },
-    photos: {
-      route: '/photos',
-      title: 'Photos',
-      img: '/sections/photos.svg',
-      hidden: false,
-      auth: false,
-      paid: false,
-      links: [
-        { title: 'Best photo I\'ve ever taken', route: '/photos/best-photo-I\'ve-ever-taken' }, // 05/12/18
-        { title: 'View from my desk', route: '/photos/view-from-my-desk' }, // 19/11/18
-        { title: 'My balcony in India', route: '/photos/view-from-my-balcony' }, // 09/09/18
-        { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
-        { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
-        { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
-      ],
-    },
   },
 };
