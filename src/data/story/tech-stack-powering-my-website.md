@@ -1,6 +1,6 @@
 <img class='img img--left img--grow' src='/posts/blog/tech-stack.png' alt='tech stack' title='tech stack' />
 
-# Tech stack behind my website
+# Tech stack powering my website
 
 #### *07 Jun 2021, Berlin*
 

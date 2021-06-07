@@ -71,7 +71,7 @@ module.exports = {
       paid: false,
       links: [
         { title: 'About me', route: '/story/about-me' },
-        { title: 'Tech stack behind my website', route: '/story/tech-stack-behind-my-website' }, // 07/06/2021
+        { title: 'Tech stack powering my website', route: '/story/tech-stack-powering-my-website' }, // 07/06/2021
         { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
         { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
         { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
