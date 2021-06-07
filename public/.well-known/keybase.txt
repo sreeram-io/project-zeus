@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sreeram
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sreeram.io
+  * I am sreeram (https://keybase.io/sreeram) on keybase.
+  * I have a public key ASBWXLhI1lQZYrI9o6x5zcVJwSGzo5qZvp--XNdvEqdUmgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120565cb848d6541962b23da3ac79cdc549c121b3a39a99be9fbe5cd76f12a7549a0a",
+      "host": "keybase.io",
+      "kid": "0120565cb848d6541962b23da3ac79cdc549c121b3a39a99be9fbe5cd76f12a7549a0a",
+      "uid": "11d798e8d00722915aaaf3fa38983019",
+      "username": "sreeram"
+    },
+    "merkle_root": {
+      "ctime": 1623070101,
+      "hash": "281fe78460c50afbe9205ca9f209356f12113253192ee91860500f413ed4fea1709941ca4666003ba05941e18e5b6200ca4ee4c0dd37acbe30e86f025c5e2a50",
+      "hash_meta": "4028f948c5d1af07081374b3fab3480ca789ab9093dc97b3bf88bc418d0d3a99",
+      "seqno": 20130922
+    },
+    "service": {
+      "entropy": "99oqKYh8YYGF62rEMfu0fxQR",
+      "hostname": "sreeram.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1623070137,
+  "expire_in": 504576000,
+  "prev": "3bfb545efb2c71487ce17c667c8c02f7073d0c942107ab7a11620233ab2e3fc9",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVly4SNZUGWKyPaOsec3FScEhs6Oamb6fvlzXbxKnVJoKp3BheWxvYWTESpcCGMQgO/tUXvsscUh84XxmfIwC9wc9DJQhB6t6EWICM6suP8nEIF57QhcaOpe4b3BcsWokMneOL8Z7Mv87cwTNWzvJOuXCAgHCo3NpZ8RAkyuJx/qFA8+78jLSB/wUsmivpZYfAZlBf08gPp+xNgqU7JUHTMhRmR5Z/WGvA/L4/YfJiyVT7dv5D2DNBkm/DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILYLPRzA+InelV49jB7SpGyvg1TTmdsKJuOftmxfVICbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sreeram
+
+==================================================================
