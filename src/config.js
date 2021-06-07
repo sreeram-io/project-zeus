@@ -92,7 +92,7 @@ module.exports = {
       title: "JavaScript",
       img: "/sections/js.svg",
       hidden: false,
-      auth: false,
+      auth: true,
       paid: false,
       links: [
         { title: 'Closures', route: '/javascript/closures' },
@@ -116,7 +116,7 @@ module.exports = {
       title: "React",
       img: "/sections/react.svg",
       hidden: false,
-      auth: false,
+      auth: true,
       paid: false,
       links: [
         { title: 'Functional component template', route: '/react/functional-component-template' },
@@ -130,7 +130,7 @@ module.exports = {
       title: "Jest",
       img: "/sections/jest.svg",
       hidden: false,
-      auth: false,
+      auth: true,
       paid: false,
       links: [
         { title: 'onChange', route: '/jest/onChange' },
@@ -142,7 +142,7 @@ module.exports = {
       title: "Web",
       img: "/sections/web.svg",
       hidden: false,
-      auth: false,
+      auth: true,
       paid: false,
       links: [
         { title: 'Editorconfig', route: '/web/editorconfig' },
@@ -170,7 +170,7 @@ module.exports = {
       title: "Leetcode",
       img: "/sections/leetcode.svg",
       hidden: false,
-      auth: false,
+      auth: true,
       paid: false,
       links: [
         { title: 'Leetcode #1', route: '/leetcode/leetcode-1' },
