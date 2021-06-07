@@ -26,12 +26,12 @@ const theme = createMuiTheme({
   overrides: {
     MuiAppBar: {
       colorPrimary: {
-        backgroundColor: '#000000',
+        backgroundColor: 'transparent',
       },
     },
     MuiBottomNavigation: {
       root: {
-        backgroundColor: '#000000',
+        backgroundColor: 'transparent',
       },
     },
     MuiBottomNavigationAction: {
