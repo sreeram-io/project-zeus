@@ -93,7 +93,7 @@ module.exports = {
       img: "/sections/js.svg",
       hidden: false,
       auth: true,
-      paid: false,
+      paid: true,
       links: [
         { title: 'Closures', route: '/javascript/closures' },
         { title: 'Constructor', route: '/javascript/constructor' },
@@ -117,7 +117,7 @@ module.exports = {
       img: "/sections/react.svg",
       hidden: false,
       auth: true,
-      paid: false,
+      paid: true,
       links: [
         { title: 'Functional component template', route: '/react/functional-component-template' },
         { title: 'Container component template', route: '/react/container-component-template' },
@@ -131,7 +131,7 @@ module.exports = {
       img: "/sections/jest.svg",
       hidden: false,
       auth: true,
-      paid: false,
+      paid: true,
       links: [
         { title: 'onChange', route: '/jest/onChange' },
         { title: 'useEffect', route: '/jest/useEffect' },
