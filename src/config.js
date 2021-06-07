@@ -71,6 +71,7 @@ module.exports = {
       paid: false,
       links: [
         { title: 'About me', route: '/story/about-me' },
+        { title: 'Tech stack behind my website', route: '/story/tech-stack-behind-my-website' }, // 07/06/2021
         { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
         { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
         { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
@@ -162,7 +163,6 @@ module.exports = {
         { title: 'Unit testing setup', route: '/web/unit-testing-using-karma-jasmine-enzyme' },
         { title: 'Code coverage using Istanbul', route: '/web/code-coverage-using-istanbul' },
         { title: 'Common web vulnerabilities', route: '/web/common-web-vulnerabilities' },
-        { title: 'The tech behind this website', route: '/web/tech-behind-this-website' }
       ],
     },
     leetcode: {
