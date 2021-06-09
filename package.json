@@ -12,9 +12,9 @@
     "test": "jest --coverage",
     "lint": "eslint src --ext .ts,.tsx,.js,.jsx",
     "docker:build": "docker build -f Dockerfile .",
-    "docker:build:zeus-builder": "docker build --target zeus-builder -t zeus-builder .",
-    "docker:build:zeus": "docker build --target zeus -t zeus . --no-cache",
-    "docker:run:zeus": "docker run -p 3000:3000 zeus",
+    "docker:build:zeus-builder": "docker build --target project-zeus-builder -t project-zeus-builder .",
+    "docker:build:zeus": "docker build --target project-zeus -t project-zeus . --no-cache",
+    "docker:run:zeus": "docker run -p 5000:3001 project-zeus",
     "docker-compose:up": "docker-compose -f docker-compose.yml up --build",
     "heroku:push": "heroku container:push web --recursive --app sreeram",
     "heroku:release": "heroku container:release web --app sreeram"
