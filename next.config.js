@@ -68,11 +68,6 @@ const nextConfig = {
       destination: '/story/:slug',
       permanent: true,
     },
-    {
-      source: '/photos/:slug',
-      destination: '/story/:slug',
-      permanent: true,
-    },
   ])
 };
 
