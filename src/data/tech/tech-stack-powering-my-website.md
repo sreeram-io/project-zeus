@@ -1,5 +1,3 @@
-<img class='img img--left img--grow' src='/posts/blog/tech-stack.png' alt='tech stack' title='tech stack' />
-
 # Tech stack powering my website
 
 #### *07 Jun 2021, Berlin*
@@ -28,7 +26,7 @@ I wanted the following features built into it.
 
 **SEO Optimization** - I made sure that all pages are serverside rendered and have the appropriate meta tags for this purpose. I used Google Search console to have my website crawled and indexed.
 
-**Containerized** - The application is dockerized into a container. On every push into the master branch, a set of tests are run. A new docker image is then built and pushed to Google Container Registry. It is then deployed into a Kubernetes cluser.
+**Microservice** - The application is dockerized into a container. On every push into the master branch, a set of tests are run. A new docker image is then built and pushed to Google Container Registry. It is then deployed into a Kubernetes cluser.
 
 **Cloud compatible** - Google Cloud is my favourite cloud provider. I used terraform for infrastructure as code. In GCP, I used Compute Engine, Kubernetes Cluser with 3 nodes, exposed a service and created an ingress controller to expose it to the internet, a HTTP loadbalancer to redirect to HTTPS, a HTTPS loadbalancer for https access, a Google managed SSL Certificate, static IP address, Container registry and Cloud build. An "A" record was created in my DNS to point the domain to this static ip address.
 
