@@ -98,7 +98,7 @@ export const getServerSideProps = async ({ query: { slug = '', post = '' }, req,
       // eslint-disable-next-line @typescript-eslint/no-var-requires
       content: require(`src/data${currentPath}.md`).default,
       navigationProps: {
-        prev: sections[slug].links[index - 1] || null,
+        prev: null,
         next: sections[slug].links[index + 1] || sections[slug].links[0],
       },
     },

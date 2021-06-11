@@ -22,7 +22,7 @@ const Index: NextPage = () => {
 
   return <Fragment>
     <img className='img img--center animate-up-down' title='blog' loading='lazy' alt='blog' src={'/sections/dev.svg'} height='175' width='300' />
-    <Alert duration={3000} type='success' className={classes.alert}>Welcome! Choose one of the sections below.</Alert>
+    <Alert duration={3000} type='success' className={classes.alert}>Choose one of the sections below.</Alert>
   </Fragment>
 };
 

@@ -28,7 +28,7 @@ So in 2012, I joined **Wipro Technologies** as a Software Engineer. Throughout s
 
 In 2016, I was deputed by Wipro to London to work for **Lloyds Banking Group**. The work there was challenging. Suddenly, from a Junior developer in offshore, I was put into a role where had to take major decisions for the Statements team as a Frontend Lead, a page used by millions in the UK every single day. That was daunting. So many ups and downs but it was the best time of my life. I made some great friends and connections which I will cherish for the rest of my life. Amazing people! In 2017, I travelled all around Europe solo just to come out of my comfort zone.
 
-## 2019-21 - Moving to Berin
+## 2019-21 - Moving to Berlin
 
 I moved to Berlin in 2019 for yet another adventure to work for **Delivery Hero** to take up a Tech lead position. I worked there for 2 years. It was a great company and I worked with some of the best engineers in the world. Made some great friends from various parts of the world who I wouldn't have met otherwise. Thats one of the perks of working in a Unicorn startup I guess.
 
