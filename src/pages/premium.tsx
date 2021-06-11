@@ -30,6 +30,8 @@ const useStyles = makeStyles(theme => ({
         marginBottom: 20,
       },
     },
+    background: 'transparent',
+    boxShadow: 'none',
   },
 }));
 

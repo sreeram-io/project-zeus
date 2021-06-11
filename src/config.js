@@ -17,7 +17,7 @@ module.exports = {
     ogSiteName: 'Sreeram Padmanabhan | Web of thoughts',
     ogType: 'website',
     ogUrl: domain,
-    title: 'Web of thoughts',
+    title: 'Sreeram Padmanabhan | Web of thoughts',
     twitterId: "",
     org: 'jsDrome',
     orgImage: `${domain}/img/icon-256.png`,

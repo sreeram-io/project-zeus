@@ -65,6 +65,13 @@ const theme = createMuiTheme({
         },
       },
     },
+    MuiButton: {
+      contained: {
+        '&.Mui-disabled': {
+          backgroundColor: '#e4e4e4',
+        },
+      },
+    },
   },
 });
 
