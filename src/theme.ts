@@ -22,22 +22,10 @@ const theme = createMuiTheme({
   },
   typography: {
     fontSize: 15,
-    fontFamily: [
-      '-apple-system',
-      'BlinkMacSystemFont',
-      '"Segoe UI"',
-      'Roboto',
-      '"Helvetica Neue"',
-      'Arial',
-      'sans-serif',
-      '"Apple Color Emoji"',
-      '"Segoe UI Emoji"',
-      '"Segoe UI Symbol"',
-    ].join(','),
-    // "Ubuntu, 'Didact Gothic', Roboto, Helvetica, Arial, sans-serif",
-    // fontWeightLight: 300,
-    // fontWeightRegular: 400,
-    // fontWeightMedium: 500,
+    fontFamily: "Ubuntu, Oxygen, Roboto, Helvetica, Arial, sans-serif",
+    fontWeightLight: 300,
+    fontWeightRegular: 400,
+    fontWeightMedium: 500,
   },
   overrides: {
     MuiTypography: {
