@@ -1,14 +1,18 @@
 import { createMuiTheme } from '@material-ui/core/styles';
 import {
   red as error,
-  blue as primary,
-  green as secondary,
+  // blue as primary,
+  // blue as secondary,
 } from '@material-ui/core/colors';
 
 const theme = createMuiTheme({
   palette: {
-    primary,
-    secondary,
+    primary: {
+      main: '#0563d8'
+    },
+    secondary: {
+      main: '#ffffff',
+    },
     error: {
       main: error.A400,
     },
@@ -43,7 +47,7 @@ const theme = createMuiTheme({
     },
     MuiListItemText: {
       primary: {
-      color: '#000000',
+        color: '#000000',
       },
     },
     MuiAppBar: {
