@@ -14,7 +14,7 @@ module.exports = {
     keywords: 'sreer.am, sreeram.io, sreeram, #sreeram, sreeram padmanabhan, jsdrome, siri, london, berlin, india, uk, germany, trivandrum, web, web developer, web engineer, creativity, Design your life, engineer, frontend, delivery hero, tech lead, wipro, mjam, lloyds bank, leetcode, leetcode solutions, leetcode javascript solutions',
     ogImage: `${domain}/img/og_image.jpg`,
     ogImageAlt: 'Sreeram Padmanabhan',
-    ogSiteName: 'Web of thoughts',
+    ogSiteName: 'Sreeram Padmanabhan | Web of thoughts',
     ogType: 'website',
     ogUrl: domain,
     title: 'Web of thoughts',
@@ -71,20 +71,13 @@ module.exports = {
       paid: false,
       links: [
         { title: 'About me', route: '/story/about-me' },
-        { title: 'Tech stack powering my website', route: '/story/tech-stack-powering-my-website' }, // 07/06/2021
         { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
         { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
         { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
-        // { title: 'My balcony in India', route: '/story/view-from-my-balcony' }, // 14/02/21
         { title: 'Life in IN/DE/UK', route: '/story/life-in-de-uk' }, // 30/11/20
         { title: 'The past decade', route: '/story/the-past-decade' }, // 01/12/20
         { title: 'Moving to Germany', route: '/story/moving-to-germany' }, // 09/08/20
-        // { title: 'Best photo I\'ve ever taken', route: '/story/best-photo-I\'ve-ever-taken' }, // 05/12/18
-        // { title: 'View from my desk', route: '/story/view-from-my-desk' }, // 19/11/18
         { title: 'Indians in Britian', route: '/story/indians-in-britain' }, // 01/08/17
-        // { title: 'Paragliding at Interlaken', route: '/story/paragliding-at-interlaken' }, // 25/06/17
-        // { title: 'Top of Scotland', route: '/story/top-of-scotland' }, // 24/04/17
-        // { title: 'Shard from the tower', route: '/story/view-of-the-shard' }, // 28/12/2016
         // { title: 'How I organize my life', route: '/story/organize' },
       ],
     },
@@ -102,6 +95,19 @@ module.exports = {
         { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
         { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
         { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
+      ],
+    },
+    tech: {
+      route: "/tech",
+      title: "Tech stuff",
+      img: "/sections/tech.png",
+      hidden: false,
+      auth: false,
+      paid: false,
+      links: [
+        { title: 'Comparison of cloud providers', route: '/tech/comparing-cloud-providers' }, // 11/06/2021
+        { title: 'Tech stack powering my website', route: '/tech/tech-stack-powering-my-website' }, // 07/06/2021
+        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
       ],
     },
     // javascript: {

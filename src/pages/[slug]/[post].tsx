@@ -20,6 +20,7 @@ const useStyles = makeStyles(theme => ({
   },
   content: {
     maxWidth: 800,
+    padding: 15,
     [theme.breakpoints.up('sm')]: {
       minWidth: 600,
       margin: 20,
@@ -33,6 +34,7 @@ const useStyles = makeStyles(theme => ({
     position: 'sticky',
     bottom: 0,
     borderRadius: 0,
+    background: '#0f1113',
   },
   footer: {
     textAlign: 'center',
@@ -51,7 +53,7 @@ const Page = ({ content, navigationProps }) => {
 
   return (
     <div className={classes.root} id='content'>
-      <Content className={classes.content}>
+      <div className={classes.content}>
         <>
           <Markdown>
             {`${content}\nThank you | நன்றி | നന്ദി | धन्यवाद | Dankeschön 🙏`}
@@ -60,7 +62,7 @@ const Page = ({ content, navigationProps }) => {
           <SocialLinks />
           <Typography variant="caption" className={classes.footer}>If only one gets inspired, its a victory.</Typography>
         </>
-      </Content>
+      </div>
     </div>
   );
 };

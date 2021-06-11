@@ -68,6 +68,11 @@ const nextConfig = {
       destination: '/story/:slug',
       permanent: true,
     },
+    {
+      source: '/story/tech-stack-powering-my-website',
+      destination: '/tech/tech-stack-powering-my-website',
+      permanent: true,
+    },
   ])
 };
 
