@@ -9,11 +9,12 @@ export default theme => ({
     width: '100%',
   },
   socialLink: {
-    margin: 1,
+    margin: 4,
     fontSize: 0,
   },
   socialIcon: {
-    height: 30,
-    width: 30,
+    height: 24,
+    width: 24,
+    color: 'white',
   },
 });

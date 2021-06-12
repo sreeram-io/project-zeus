@@ -35,6 +35,7 @@ const useStyles = makeStyles(theme => ({
     bottom: 0,
     borderRadius: 0,
     background: '#0f1113',
+    padding: '12px 0',
   },
   footer: {
     textAlign: 'center',

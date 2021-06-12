@@ -51,7 +51,7 @@ const Premium = () => {
             title='Sreeram Padmanabhan' />
           <CardContent>
             <Typography gutterBottom variant='h6' component='h2'>
-            Lifetime membership <span style={{ float: 'right' }}>$99</span>
+            Membership <span style={{ float: 'right' }}>$99</span>
             </Typography>
           </CardContent>
         </CardActionArea>

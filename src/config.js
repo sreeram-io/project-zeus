@@ -71,10 +71,10 @@ module.exports = {
       paid: false,
       links: [
         { title: 'About me', route: '/story/about-me' },
-        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
+        { title: 'I\'m taking the next big step', route: '/story/next-big-step' }, // 02/06/21
         { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
-        { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
-        { title: 'Life in IN/DE/UK', route: '/story/life-in-de-uk' }, // 30/11/20
+        // { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
+        { title: 'Life in India, Germany and UK', route: '/story/life-in-de-uk' }, // 30/11/20
         { title: 'The past decade', route: '/story/the-past-decade' }, // 01/12/20
         { title: 'Moving to Germany', route: '/story/moving-to-germany' }, // 09/08/20
         { title: 'Indians in Britian', route: '/story/indians-in-britain' }, // 01/08/17
@@ -96,7 +96,7 @@ module.exports = {
         { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
         { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
         { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
-        { title: 'Comparison of cloud providers', route: '/tech/comparing-cloud-providers' }, // 11/06/2021
+        { title: 'What a Fullstack Web Dev should know', route: '/tech/what-a-fullstack-webdev-should-know' }, // 12/06/21
       ],
     },
     tech: {
@@ -107,9 +107,10 @@ module.exports = {
       auth: false,
       paid: false,
       links: [
+        { title: 'What a Fullstack Web Dev should know', route: '/tech/what-a-fullstack-webdev-should-know' }, // 12/06/21
         { title: 'Comparison of cloud providers', route: '/tech/comparing-cloud-providers' }, // 11/06/2021
         { title: 'Tech stack powering my website', route: '/tech/tech-stack-powering-my-website' }, // 07/06/2021
-        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
+        { title: 'I\'m taking the next big step', route: '/story/next-big-step' }, // 02/06/21
       ],
     },
     // javascript: {
