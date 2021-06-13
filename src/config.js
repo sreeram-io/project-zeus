@@ -104,7 +104,7 @@ module.exports = {
       title: "Tech stuff",
       img: "/sections/tech.png",
       hidden: false,
-      auth: false,
+      auth: true,
       paid: false,
       links: [
         { title: 'What a Fullstack Web Dev should know', route: '/tech/what-a-fullstack-webdev-should-know' }, // 12/06/21

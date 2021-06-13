@@ -6,16 +6,16 @@
 
 ## Background
 
-Fullstack Development is a relatively new thing. It came into existence only in the past decade or so. The term is being thrown around like ragdolls these days. The term Fullstack came into existence with the coming of age of Javascript as a programming language and it was adopted in  backend and IOT devices with the emergence of NodeJS which gave developers access to the filesystem which Javascript didnt. These days, Fullstack development seems to have many branches or rather most popular languages (web or otherwise) have come under the umbrella of Fullstack.
-In this post, I will be focusing on Fullstack Development used in the Web with a focus on frontend (as that's my speciality) and how to go about learning it. In my experience, working over 10 years in the field and attending over 100 interviews in various countries, I have realized that the following things are important and are expected of an Engineer.
+Fullstack Development is a relatively new thing. It came into existence only in the past decade or so. The term is being thrown around like ragdolls these days. The term Fullstack came into existence with the coming of age of Javascript as a programming language and it was adopted in  backend and IOT devices with the emergence of NodeJS which gave developers access to the filesystem which Javascript didnt. These days, Fullstack development seems to have many branches or rather the most popular languages web or otherwise have come under the umbrella of Fullstack.
+In this post, I will be focusing on Fullstack Development used in the Web with a focus on frontend (as that's my speciality) and how to go about learning it. In my experience, working over 10 years in the field and attending over 100 interviews in various countries, I have realized that the following things are important and are expected of an Engineer. The [interview](/interview) section in this website has all the questions you will ever need to do well in these interviews. I constantly update them as well.
 
 ## Problem Solving
 
-First and foremost is problem solving. You need to have strong knowledge in programming for that. Irrespective of you being frontend or backend focused, this is a must for any Software Engineer. Given a problem, you need to be able to come up with a consice solution using code. Writing time and space efficient code is imperative in the web. You need to be fluent in DataStructures and Algorithms. I used Leetcode, Hackerrank and Hackerearth for this.
+First and foremost is problem solving. You need to have strong knowledge in programming. Irrespective of you being frontend or backend focused, this is a must for any Software Engineer. And I agree. Given a problem, you need to be able to come up with a consice solution using code. Writing time and space efficient code is imperative in the web. You need to be fluent in DataStructures and Algorithms. I used Leetcode, Hackerrank and Hackerearth for this.
 
 ## Domain knowledge
 
-Web is the domain I work on. I needed to have a decent knowledge of how things work in the web. I have been living in the web for most of my life. So this came easy for me. How would you be able to build this expertise is not something I can answer. Build a lof of stuff, work on a lot of projects, try create something end to end and deploy to production.
+Web is the domain I work on. I needed to have a decent knowledge of how things work in the web. I have been living in the web for most of my life. So this came easy for me. I built expertise by building a lof of stuff, working on a lot of projects, creating something end to end and deploying to production.
 
 ## Frontend
 
@@ -25,23 +25,23 @@ In frontend, your work will revolve to the most extent around Javascript. So, it
 
 ## Backend
 
-You need to be good in any one of the backend laguages. Python seems to be in hot demand these days. For me it was NodeJS. It could be Java/Python/Go/C# or whatever. But, you need to have a strong grasp of the concepts. I use NodeJS in the backend at work and in my personal projects. You could use online learning portals like Udemy, Coursera** etc but that wont give you the field experience required.
+You need to be good in any one of the backend languages. Python seems to be in hot demand these days. For me it was NodeJS. It could be Java/Python/Go/C# or whatever. But whichever it may be for you, you need to have a strong grasp of the concepts. I use NodeJS in the backend at work and in my personal projects. You could use online learning portals like Udemy, Coursera etc, but that wont give you the field experience required.
 
 ## Databases
 
-You need to be able to design, configure and use some database. You need to be able to tell which one to use for what usecases.
+You need to be able to design, configure and use databases. You need to know the pros and cons of certain types of databases and you need to be able to tell which one to use for what usecases.
 
 ## DevOps/Networking
 
-It is essential that you know things like Git, Docker, Kubernetes, Cloud solutions etc. You need to be able to wite the code and know how to take it to production and monitor after its release. Doing a GCP Certification or preparing for it helps a great deal.
+It is essential that you know things like Git, Docker, Kubernetes, Cloud solutions etc. You need to be able to wite the code and know how to take it to production and monitor it after its release. Doing a GCP Certification or preparing for it helps a great deal.
 
 ## Testing
 
-You need to be able to follow a TDD/BDD approach in writing software. You need to be able to tell when and where unit tests/e2e tests are required. Companies do only a BDD. It gives them enough confidence that the application works. Some companies do a combination go TDD and BDD.
+You need to be able to follow a TDD/BDD approach in writing software. You need to be able to tell when and where unit tests/e2e tests are required. Some companies go for only BDD. It gives them enough confidence that the application works. Some companies go for a combination of TDD and BDD. But, from what I see, BDD seems to be the way forward.
 
 ## System Design
 
-You need to be able to come up with the design for a problem statement. For example, Design Uber, Design Instagram etc. You need to be able tell the pros and cons of the approach you take for your design.
+You need to be able to come up with the design for a problem statement. Some examples include designing Uber, Instagram etc. You need to be able to discuss the approach you take for your design.
 
 ## Software Engineering
 
