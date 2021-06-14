@@ -1,4 +1,4 @@
-# What a fullstack web developer should know
+# What a Web developer should know
 
 #### *12 Jun 2021, Berlin*
 
@@ -6,12 +6,12 @@
 
 ## Background
 
-Fullstack Development is a relatively new thing. It came into existence only in the past decade or so. The term is being thrown around like ragdolls these days. The term Fullstack came into existence with the coming of age of Javascript as a programming language and it was adopted in  backend and IOT devices with the emergence of NodeJS which gave developers access to the filesystem which Javascript didnt. These days, Fullstack development seems to have many branches or rather the most popular languages web or otherwise have come under the umbrella of Fullstack.
-In this post, I will be focusing on Fullstack Development used in the Web with a focus on frontend (as that's my speciality) and how to go about learning it. In my experience, working over 10 years in the field and attending over 100 interviews in various countries, I have realized that the following things are important and are expected of an Engineer. The [interview](/interview) section in this website has all the questions you will ever need to do well in these interviews. I constantly update them as well.
+Web Developers are inherently Fullstack. They tend to have a focus area and some knowledge in other areas. Fullstack Development is a relatively new thing. It came into existence only in the past decade or so. The term is being thrown around like ragdolls these days. The term Fullstack came into existence with the coming of age of Javascript as a programming language and it was adopted in backend and IOT devices with the emergence of NodeJS which gave developers access to the filesystem which Javascript didnt. These days, Fullstack development seems to have many branches or rather the most popular languages web or otherwise have come under the umbrella of Fullstack.
+In this post, I will be focusing on Fullstack Development used in the Web with a focus on frontend (as that's my speciality) and how to go about learning it. In my experience, working over 10 years in the field, I have realized that the following things are important and are expected of an Engineer.
 
 ## Problem Solving
 
-First and foremost is problem solving. You need to have strong knowledge in programming. Irrespective of you being frontend or backend focused, this is a must for any Software Engineer. And I agree. Given a problem, you need to be able to come up with a consice solution using code. Writing time and space efficient code is imperative in the web. You need to be fluent in DataStructures and Algorithms. I used Leetcode, Hackerrank and Hackerearth for this.
+First and foremost is problem solving. You need to have strong knowledge in programming. You need to be fluent in DataStructures and Algorithms. Irrespective of you being frontend or backend focused, this is a must for any Software Engineer. And I agree. Given a problem, you need to be able to come up with a consice solution using code in a time and space efficient way.  I used Leetcode, Hackerrank and Hackerearth for this.
 
 ## Domain knowledge
 

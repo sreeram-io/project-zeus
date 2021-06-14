@@ -8,7 +8,7 @@ module.exports = {
   seo: {
     author: 'Sreeram Padmanabhan',
     themeColor: '#000000',
-    description: 'An artist in the world of web painting it with the brushes of Javascript and the colors of creativity.',
+    description: 'If only one gets inspired, it\'s a victory.',
     domain,
     gtmId: 'GTM-KFQNDM8',
     keywords: 'sreer.am, sreeram.io, sreeram, #sreeram, sreeram padmanabhan, jsdrome, siri, london, berlin, india, uk, germany, trivandrum, web, web developer, web engineer, creativity, Design your life, engineer, frontend, delivery hero, tech lead, wipro, mjam, lloyds bank, leetcode, leetcode solutions, leetcode javascript solutions',
@@ -71,7 +71,7 @@ module.exports = {
       paid: false,
       links: [
         { title: 'About me', route: '/story/about-me' },
-        { title: 'I\'m taking the next big step', route: '/story/next-big-step' }, // 02/06/21
+        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
         { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
         // { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
         { title: 'Life in India, Germany and UK', route: '/story/life-in-de-uk' }, // 30/11/20
@@ -104,13 +104,13 @@ module.exports = {
       title: "Tech stuff",
       img: "/sections/tech.png",
       hidden: false,
-      auth: true,
+      auth: false,
       paid: false,
       links: [
-        { title: 'What a Fullstack Web Dev should know', route: '/tech/what-a-fullstack-webdev-should-know' }, // 12/06/21
+        { title: 'What a Web Developer should know', route: '/tech/what-a-web-developer-should-know' }, // 12/06/21
         { title: 'Comparison of cloud providers', route: '/tech/comparing-cloud-providers' }, // 11/06/2021
         { title: 'Tech stack powering my website', route: '/tech/tech-stack-powering-my-website' }, // 07/06/2021
-        { title: 'I\'m taking the next big step', route: '/story/next-big-step' }, // 02/06/21
+        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
       ],
     },
     // javascript: {
