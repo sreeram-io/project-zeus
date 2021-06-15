@@ -38,6 +38,6 @@ Workaholism affects you and others around you. Great companies don't look for pe
 
 So, leave work at work. Do not judge someone when he leaves at 5. Judge yourself for not having a work-life balance.
 
-When I see workaholics now, I secrelty laugh at the slippery slope they are in.
+When I see workaholics now, I secretly laugh at the slippery slope they are in.
 
 &nbsp;
