@@ -107,6 +107,7 @@ module.exports = {
       auth: false,
       paid: false,
       links: [
+        { title: 'What are some common career landmines?', route: '/tech/career-landmine'}, // 15/06/21
         { title: 'What a Web Developer should know', route: '/tech/what-a-web-developer-should-know' }, // 12/06/21
         { title: 'Comparison of cloud providers', route: '/tech/comparing-cloud-providers' }, // 11/06/2021
         { title: 'Tech stack powering my website', route: '/tech/tech-stack-powering-my-website' }, // 07/06/2021
