@@ -96,7 +96,7 @@ module.exports = {
         { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
         { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
         { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
-        { title: 'What a Fullstack Web Dev should know', route: '/tech/what-a-fullstack-webdev-should-know' }, // 12/06/21
+        { title: 'What are some common career landmines?', route: '/tech/career-landmine'}, // 15/06/21
       ],
     },
     tech: {
