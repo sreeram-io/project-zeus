@@ -8,7 +8,7 @@ module.exports = {
   seo: {
     author: 'Sreeram Padmanabhan',
     themeColor: '#000000',
-    description: 'If only one gets inspired, it\'s a victory.',
+    description: '𝘐𝘧 𝘰𝘯𝘭𝘺 𝘰𝘯𝘦 𝘨𝘦𝘵𝘴 𝘪𝘯𝘴𝘱𝘪𝘳𝘦𝘥, 𝘪𝘵𝘴 𝘢 𝘷𝘪𝘤𝘵𝘰𝘳𝘺.',
     domain,
     gtmId: 'GTM-KFQNDM8',
     keywords: 'sreer.am, sreeram.io, sreeram, #sreeram, sreeram padmanabhan, jsdrome, siri, london, berlin, india, uk, germany, trivandrum, web, web developer, web engineer, creativity, Design your life, engineer, frontend, delivery hero, tech lead, wipro, mjam, lloyds bank, leetcode, leetcode solutions, leetcode javascript solutions',
