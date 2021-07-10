@@ -4,7 +4,7 @@
 
 &nbsp;
 
-This question was asked to me on Quora.
+This question was asked to me on Quora. I have redacted the names I have used here for prvacy reasons.
 
 I have been fortunate to have travelled quite extensively before the age of 30. I have lived in London for over 3 years as of 2021. I lived in Berlin for 2 years. I also visited other EU countries. I moved houses every 6 months just to explore all parts of London. So I have lived in about 10 different places and that has helped me meet and talk to people of all kinds, nationalities, faiths, sexual orientations etc.
 
@@ -20,7 +20,7 @@ The first things that come to their mind when it comes to India are - curry, pov
 
 The media likes to show India in poor light. India is easily brushed off as a "third world country". And that reflects everywhere. We have separate queues in Airports. We still needed a seperate visa to be able to travel to Europe even though we have a UK visa and we pay taxes and National Insurance and what not. We can't get certain bank accounts, we have additional checks in some, we cannot get a credit history.
 
-## Pleasant anecdotes (names redacted)
+## Pleasant anecdotes
 
 I was surprised when a colleague of mine, Ad, told me I'm one of the smartest persons he knows. And I was like WTF? In India, I was just average.
 
