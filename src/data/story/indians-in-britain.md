@@ -54,7 +54,7 @@ Once after a late night out, I had to take my friend to her home as she was too 
 
 I have come to realise that there is indeed a small degree of discrimination, systemic racism and white supremacy. But would I face it if I moved to a different part of the world? Absolutely. Would I myself discrimate someone based on my own preconcieved notions? I probably already have. And if there is any place on earth which comes out of this disease, it has to be London. It once was the seat of colonialism, but its now showing the way to the world.
 
-Also, it also has to do with immigration policies in general. Does every immigrant want/have the wherewithalls to live in a city like that and integrate with the society because they come from varied socio-economic backgrounds? I dont think so.
+Also, it also has to do with immigration policies in general. Does every immigrant want/have the wherewithals to live in a city like that and integrate with the society because they come from varied socio-economic backgrounds? I dont think so.
 
 Living there had its ups and downs, but eventually, when I look back, I miss the place. Co once said London will eventually get to me. I refuted it back then but I am beginning to realize she might have been right after all.
 
