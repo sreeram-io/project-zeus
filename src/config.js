@@ -65,7 +65,7 @@ module.exports = {
     story: {
       route: "/story",
       title: "My Story",
-      img: "/sections/blog.svg",
+      img: "/posts/blog/sreeram.jpg",
       hidden: false,
       auth: false,
       paid: false,
@@ -96,18 +96,18 @@ module.exports = {
         { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
         { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
         { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
-        { title: 'What are some common career landmines?', route: '/tech/career-landmine'}, // 15/06/21
+        { title: 'The biggest carrer landmine', route: '/tech/career-landmine'}, // 15/06/21
       ],
     },
     tech: {
       route: "/tech",
       title: "Tech stuff",
-      img: "/sections/tech.png",
+      img: "/sections/cloud.svg",
       hidden: false,
       auth: false,
       paid: false,
       links: [
-        { title: 'What are some common career landmines?', route: '/tech/career-landmine'}, // 15/06/21
+        { title: 'The biggest carrer landmine', route: '/tech/career-landmine'}, // 15/06/21
         { title: 'What a Web Developer should know', route: '/tech/what-a-web-developer-should-know' }, // 12/06/21
         { title: 'Comparison of cloud providers', route: '/tech/comparing-cloud-providers' }, // 11/06/2021
         { title: 'Tech stack powering my website', route: '/tech/tech-stack-powering-my-website' }, // 07/06/2021

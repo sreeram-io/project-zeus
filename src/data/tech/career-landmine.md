@@ -1,4 +1,4 @@
-# What are some common career landmines people step on?
+# The biggest carrer landmine people step on
 
 #### 15 Jun 2021, Berlin
 
