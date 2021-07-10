@@ -57,11 +57,11 @@ const Page = ({ content, navigationProps }) => {
       <div className={classes.content}>
         <>
           <Markdown>
-            {`${content}\n#### *If you liked this post, give it a thumbs up. Thank you | நன்றி | നന്ദി | धन्यवाद | Dankeschön 🙏*\n&nbsp;`}
+            {content}
           </Markdown>
           <Navigation {...navigationProps} className={classes.navigation} />
           <SocialLinks />
-          <Typography variant="caption" className={classes.footer}>If only one gets inspired, its a victory.</Typography>
+          <Typography variant="caption" className={classes.footer}>If only one gets inspired, its a victory. <br /> Thank you | நன்றி | നന്ദി | धन्यवाद | Dankeschön 🙏</Typography>
         </>
       </div>
     </div>
