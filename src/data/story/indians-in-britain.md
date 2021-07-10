@@ -58,4 +58,4 @@ Also, it also has to do with immigration policies in general. Does every immigra
 
 Living there had its ups and downs, but eventually, when I look back, I miss the place. Co once said London will eventually get to me. I refuted it back then but I am beginning to realize she might have been right after all.
 
-And the number of amazing people there are more than the number of bad apples who I guess are there everywhere. As of July 2021, I'm back in London for yet another go. And this time, I start from experience.
+And the amazingness of the city outweighs the bad apples who I guess are there everywhere. You only realize the value of something only when you've lost it. I did realize that after 2 years in Berlin. As of July 2021, I'm back in London for yet another go. And this time, I start from experience.
