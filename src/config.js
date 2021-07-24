@@ -78,8 +78,9 @@ module.exports = {
         { title: 'The past decade', route: '/story/the-past-decade' }, // 01/12/20
         { title: 'Moving to Germany', route: '/story/moving-to-germany' }, // 09/08/20
         { title: 'Indians in Britian', route: '/story/indians-in-britain' }, // 01/08/17
+        { title: 'Moving out of Germany', route: '/story/moving-out-of-germany' }, // 25/07/21
         // { title: 'How I organize my life', route: '/story/organize' },
-        { title: 'View from my balcony in India', route: '/photos/view-from-my-balcony' }, // 14/02/21
+        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
       ],
     },
     photos: {
@@ -96,7 +97,7 @@ module.exports = {
         { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
         { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
         { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
-        { title: 'The biggest carrer landmine', route: '/tech/career-landmine' }, // 15/06/21
+        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
       ],
     },
     tech: {
