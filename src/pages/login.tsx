@@ -1,6 +1,5 @@
 import React from 'react';
-import { useRouter } from 'next/router';
-import _get from 'lodash/get';
+
 import {
   makeStyles,
   Card,
@@ -10,6 +9,8 @@ import {
   Typography,
   Button,
 } from '@material-ui/core';
+import _get from 'lodash/get';
+import { useRouter } from 'next/router';
 
 const useStyles = makeStyles(theme => ({
   card: {

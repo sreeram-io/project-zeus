@@ -1,5 +1,5 @@
-import { createSelector } from 'reselect';
 import _get from 'lodash/get';
+import { createSelector } from 'reselect';
 
 export const appSelector = state => state.app;
 

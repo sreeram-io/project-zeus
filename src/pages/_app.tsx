@@ -1,18 +1,19 @@
 import React, { useEffect } from 'react';
+
 import { ThemeProvider } from '@material-ui/core/styles';
-import { END } from 'redux-saga';
+import { Layout, LayoutType } from '@sreeram.io/alpha';
 import type {
   AppProps as NextAppProps,
   AppContext as NextAppContext,
 } from 'next/app';
-import { Layout, LayoutType } from '@sreeram.io/alpha';
+import { END } from 'redux-saga';
 
-import theme from '@/theme';
+import config from '@/config';
 import { wrapper } from '@/store';
-import '@/styles/styles.scss';
 import { loadData } from '@/store/app/app.actions';
 import { userTierSelector, sessionSelector, avatarSelector } from '@/store/app/app.selectors';
-import config from '@/config';
+import '@/styles/styles.scss';
+import theme from '@/theme';
 import { removeJSS } from '@/utils/helpers';
 
 export interface MyAppProps extends NextAppProps {

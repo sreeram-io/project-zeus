@@ -1,8 +1,10 @@
 import React, { useEffect } from 'react';
-import config from '@/config';
-import { useRouter } from 'next/router';
-import _get from 'lodash/get';
+
 import { Blinkingcursor } from '@sreeram.io/alpha';
+import _get from 'lodash/get';
+import { useRouter } from 'next/router';
+
+import config from '@/config';
 
 const Index = ({ img, firstRoute }) => {
   const router = useRouter();

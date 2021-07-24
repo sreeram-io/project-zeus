@@ -1,9 +1,4 @@
 import React from 'react';
-import { Link } from '@material-ui/core';
-import { withStyles } from '@material-ui/core/styles';
-// import FacebookIcon from '@material-ui/icons/Facebook';
-import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import TwitterIcon from '@material-ui/icons/Twitter';
 import {
   FaQuora,
   FaSpotify,
@@ -20,6 +15,12 @@ import {
 import {
   TiSocialInstagram,
 } from 'react-icons/ti';
+
+import { Link } from '@material-ui/core';
+import { withStyles } from '@material-ui/core/styles';
+// import FacebookIcon from '@material-ui/icons/Facebook';
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
+import TwitterIcon from '@material-ui/icons/Twitter';
 // import {
 //   AiFillCode,
 //   AiFillCodeSandboxSquare,

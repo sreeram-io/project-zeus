@@ -1,6 +1,7 @@
-import { put } from 'redux-saga/effects';
-import { failure, loadDataSuccess } from './app.actions';
 import { getSession } from '@auth0/nextjs-auth0';
+import { put } from 'redux-saga/effects';
+
+import { failure, loadDataSuccess } from './app.actions';
 
 export const getUserData = async custId => {
   const res = await fetch(`${process.env.NEXT_PUBLIC_DOMAIN}/api/user?custId=${custId}`);

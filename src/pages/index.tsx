@@ -1,9 +1,10 @@
 import React, { Fragment } from 'react';
-import { NextPage } from 'next';
-import {
-  Alert
-} from '@sreeram.io/alpha';
+
 import { makeStyles } from '@material-ui/core';
+import {
+  Alert,
+} from '@sreeram.io/alpha';
+import { NextPage } from 'next';
 
 const useStyles = makeStyles(theme => ({
   navigation: {

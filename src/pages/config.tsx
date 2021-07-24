@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import { NextPage } from 'next';
+
 import { Content } from '@sreeram.io/alpha';
+import { NextPage } from 'next';
 
 const Config: NextPage = () => {
 

@@ -30,7 +30,7 @@ module.exports = {
     display: "standalone",
     description: "Sreeram Padmanabhan's app.",
     theme_color: "#000000",
-    icons: [{
+    icons: [ {
       src: "/img/icon-22.png",
       type: "image/png",
       sizes: "22x22",
@@ -55,11 +55,11 @@ module.exports = {
       sizes: "196x196",
       type: "image/png",
       purpose: "maskable",
-    }],
-    related_applications: [{
+    } ],
+    related_applications: [ {
       platform: "play",
-      url: "https://play.google.com/store/apps/details?id=io.sreeram.twa"
-    }]
+      url: "https://play.google.com/store/apps/details?id=io.sreeram.twa",
+    } ],
   },
   sections: {
     story: {
@@ -96,7 +96,7 @@ module.exports = {
         { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
         { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
         { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
-        { title: 'The biggest carrer landmine', route: '/tech/career-landmine'}, // 15/06/21
+        { title: 'The biggest carrer landmine', route: '/tech/career-landmine' }, // 15/06/21
       ],
     },
     tech: {
@@ -107,7 +107,7 @@ module.exports = {
       auth: false,
       paid: false,
       links: [
-        { title: 'The biggest carrer landmine', route: '/tech/career-landmine'}, // 15/06/21
+        { title: 'The biggest carrer landmine', route: '/tech/career-landmine' }, // 15/06/21
         { title: 'What a Web Developer should know', route: '/tech/what-a-web-developer-should-know' }, // 12/06/21
         { title: 'Comparison of cloud providers', route: '/tech/comparing-cloud-providers' }, // 11/06/2021
         { title: 'Tech stack powering my website', route: '/tech/tech-stack-powering-my-website' }, // 07/06/2021

@@ -1,17 +1,18 @@
 import React, { useEffect } from 'react';
+
+import { getSession } from '@auth0/nextjs-auth0';
 import { makeStyles } from '@material-ui/core';
+import { Typography } from '@material-ui/core';
 import {
   Markdown,
   Content,
   Navigation,
 } from '@sreeram.io/alpha';
-import { getSession } from '@auth0/nextjs-auth0';
 import isbot from 'isbot';
-import { Typography } from '@material-ui/core';
 
 import SocialLinks from '@/components/SocialLinks/SocialLinks';
-import { getUserData } from '@/store/app/app.api';
 import config from '@/config';
+import { getUserData } from '@/store/app/app.api';
 import { scrollToTop } from '@/utils/helpers';
 
 const useStyles = makeStyles(theme => ({
@@ -42,7 +43,7 @@ const useStyles = makeStyles(theme => ({
     display: 'block',
     width: '100%',
     fontStyle: 'italic',
-  }
+  },
 }));
 
 const Page = ({ content, navigationProps }) => {
@@ -50,7 +51,7 @@ const Page = ({ content, navigationProps }) => {
 
   useEffect(() => {
     scrollToTop(document.getElementById('content'));
-  }, [content]);
+  }, [ content ]);
 
   return (
     <div className={classes.root} id='content'>
@@ -61,7 +62,7 @@ const Page = ({ content, navigationProps }) => {
           </Markdown>
           <Navigation {...navigationProps} className={classes.navigation} />
           <SocialLinks />
-          <Typography variant="caption" className={classes.footer}>If only one gets inspired, its a victory. <br /> Thank you | நன்றி | നന്ദി | धन्यवाद | Dankeschön 🙏</Typography>
+          <Typography variant='caption' className={classes.footer}>If only one gets inspired, its a victory. <br /> Thank you | நன்றி | നന്ദി | धन्यवाद | Dankeschön 🙏</Typography>
         </>
       </div>
     </div>

@@ -1,4 +1,5 @@
 import { HYDRATE } from 'next-redux-wrapper';
+
 import actionTypes from './app.const';
 
 const initialState = {
