@@ -71,7 +71,6 @@ module.exports = {
       paid: false,
       links: [
         { title: 'About me', route: '/story/about-me' },
-        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
         { title: 'My professional journey', route: '/story/my-professional-journey' }, // 23/04/21
         // { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
         { title: 'Life in India, Germany and UK', route: '/story/life-in-de-uk' }, // 30/11/20

@@ -1,4 +1,4 @@
-<img class="img img--left img--grow" loading="lazy" src='/posts/photos/bumble.jpg' />
+<img class="img img--grow" loading="lazy" src='/posts/photos/bumble.jpg' />
 
 # Next big step in life
 
