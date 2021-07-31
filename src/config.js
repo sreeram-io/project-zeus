@@ -80,6 +80,7 @@ module.exports = {
         { title: 'Moving out of Germany', route: '/story/moving-out-of-germany' }, // 25/07/21
         // { title: 'How I organize my life', route: '/story/organize' },
         { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
+        { title: 'First month in Bumble', route: '/story/first-month-in-bumble' }, // 02/06/21
       ],
     },
     photos: {
