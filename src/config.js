@@ -79,6 +79,7 @@ module.exports = {
         { title: 'Moving out of Germany', route: '/story/moving-out-of-germany' }, // 25/07/21
         { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
         { title: 'First month in Bumble', route: '/story/first-month-in-bumble' }, // 02/06/21
+        { title: 'Next adventure - Flying', route: '/story/learning-to-fly' }, // 04/09/21
         // { title: 'How I organize my life', route: '/story/organize' },
         // { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
       ],
@@ -97,7 +98,6 @@ module.exports = {
         { title: 'Paragliding at Interlaken', route: '/photos/paragliding-at-interlaken' }, // 25/06/17
         { title: 'Top of Scotland', route: '/photos/top-of-scotland' }, // 24/04/17
         { title: 'Shard from the tower', route: '/photos/view-of-the-shard' }, // 28/12/2016
-        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
       ],
     },
     tech: {
@@ -112,7 +112,6 @@ module.exports = {
         { title: 'What a Web Developer should know', route: '/tech/what-a-web-developer-should-know' }, // 12/06/21
         { title: 'Comparison of cloud providers', route: '/tech/comparing-cloud-providers' }, // 11/06/2021
         { title: 'Tech stack powering my website', route: '/tech/tech-stack-powering-my-website' }, // 07/06/2021
-        { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
       ],
     },
     // javascript: {
