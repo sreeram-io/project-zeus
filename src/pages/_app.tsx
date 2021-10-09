@@ -94,8 +94,10 @@ App.getInitialProps = async ({ Component, ctx }: NextAppContext) => {
       },
       bottomBarProps: {
         value: index,
-        list: sections,
-        showLabels: false,
+        list: sections.map(section => ({
+          ...section,
+          showLabel: true,
+        })),
       },
       seoProps: {
         ...seo,

@@ -14,11 +14,11 @@ const theme = createMuiTheme({
       main: error.A400,
     },
     background: {
-      default: '#000000',
+      default: '#090909',
     },
   },
   typography: {
-    fontSize: 14,
+    fontSize: 16,
     fontFamily: "Ubuntu, Oxygen, Roboto, Helvetica, Arial, sans-serif",
     fontWeightLight: 300,
     fontWeightRegular: 400,
@@ -47,10 +47,10 @@ const theme = createMuiTheme({
     },
     MuiBottomNavigationAction: {
       label: {
-        display: 'none',
+        color: '#e4e4e4',
+        fontSize: 12,
         '&.Mui-selected': {
           fontSize: 12,
-          display: 'none',
         },
       },
     },
