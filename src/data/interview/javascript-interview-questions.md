@@ -1,65 +1,283 @@
 # Javascript Interview questions
 
+#### 16 Oct 2021, London
+
 &nbsp;
 
-## General Questions
+## General Topics
+
+You can expect these general questions in the initial rounds of a Mid senior/senior role.
 
 - Datatypes
+- Scope
+- Hoisting
+- Closures
+- Context
+- Prototype chain
+- Event loop
+- Event propagation
+- Asynchronousity in Javascript
+- Iterators and Generators
 
-- Scope of variables
+&nbsp;
 
-- What is hoisting?
+## Programming topics
 
-- What are closures?
+For a senior role, its important to be able to use the tools Javascript provides to write implementations of regularly used methods. Given below are not the most commonly asked questions. Although these implementations are not perfect, they have worked for me in interviews.
 
-- What is event loop?
-
-- What is event bubbling/capturing?
-
-- Explain the asynchronous nature of Javascript.
-
-- Type coercing equality and strict equality
-
-- How do call and apply differ from each other?
-
-- How does value of `this` vary?
-
-- What is the prototype chain?
-
-## 2. Revolut 2019
-
-Implement the bind method.
-
-## 3. Auto1 2020
-
-Write a function that generates the following output.
+### Array.prototype.filter
 
 ```js
-let increment = new Increment()
-let increment2 = Increment()
+Array.prototype.filter = function (...args) {
+  var result = [];
+  var fn = args[0];
 
-console.log(increment == +increment2) // true
-console.log(`val: ${increment}`)      // val: 1
-console.log(`val: ${increment}`)      // val: 2
-console.log(`val: ${increment}`)      // val: 3
+  this.forEach((item) => {
+    if (fn(item)) result.push(item);
+  });
+
+  return result;
+};
 ```
 
-## 4. Facebook 2020
+&nbsp;
 
-Implement an emitter class.
+### Array.prototype.map
 
-## 5. Causalens 2021
+```js
+Array.prototype.map = function (...args) {
+  let result = [];
+  var mapper = args[0];
+  this.forEach((item) => {
+    result.push(mapper(item));
+  });
 
-Write a wrap function that takes an execute function and returns a modified function.
+  return result;
+};
+```
 
-## 6. Delivery Hero 2021
+&nbsp;
 
-- Implement a debounce function
-- Implement a throttle function
+### Array.prototype.reduce
 
-## 7. Zalando 2021
+```js
+Array.prototype.reduce = function (...args) {
+  var [reducer, initialVal] = args;
+  let result = initialVal;
 
-- Implement Array.prototype.reduce
-- Implement Array.prototype.flat
+  this.forEach((item) => {
+    result = reducer(result, item);
+  });
+
+  return result;
+};
+```
+
+&nbsp;
+
+### Array.prototype.flat
+
+```js
+Array.prototype.flat = function () {
+  let result = [];
+
+  (function () {
+    this.forEach((item) => {
+      if (item.length) arguments.callee.call(item);
+      else result.push(item);
+    });
+  }.call(this));
+
+  return result;
+};
+```
+
+&nbsp;
+
+### Function.prototype.call
+
+```js
+Function.prototype.call = function (...args) {
+  var obj = args.shift();
+  var key = Math.random();
+  obj[key] = this;
+  var result = obj[key](...args);
+  delete obj[key];
+  return result;
+};
+```
+
+&nbsp;
+
+### Function.prototype.apply
+
+```js
+Function.prototype.apply = function (...args) {
+  var obj = args.shift();
+  var key = Math.random();
+  obj[key] = this;
+  var result = obj[key](...args[0]);
+  delete obj[key];
+  return result;
+};
+```
+
+&nbsp;
+
+### Function.prototype.bind
+
+```js
+Function.prototype.bind = function (...args) {
+  var obj = args.shift();
+  var key = Math.random();
+  obj[key] = this;
+
+  return function (...args2) {
+    return obj[key](...[...args, ...args2]);
+  };
+};
+```
+
+&nbsp;
+
+### Function.prototype.debounce
+
+```js
+Function.prototype.debounce = function (...args) {
+  var fn = this;
+  var [duration] = args;
+  let timer;
+
+  return function (...args) {
+    if (timer) clearTimeout(timer);
+    timer = setTimeout(fn.bind(null, ...args), duration);
+  };
+};
+```
+
+&nbsp;
+
+### Function.prototype.throttle
+
+```js
+Function.prototype.throttle = function (...args) {
+  let time = 0;
+  let [duration] = args;
+  return function (...args) {
+    const currentTime = new Date().getTime();
+    if (currentTime - time < duration) return;
+    time = currentTime;
+    this(...args);
+  }.bind(this);
+};
+```
+
+&nbsp;
+
+### Emitter class
+
+```js
+class Emitter {
+  constructor() {
+    this.events = {};
+  }
+
+  on(...args) {
+    var message = args.shift();
+    if (message in this.events) this.events[message].push(...args);
+    else this.events[message] = args;
+  }
+
+  emit(...args) {
+    var message = args.shift();
+    if (message in this.events) {
+      this.events[message].forEach((event) => {
+        event(...args);
+      });
+    }
+  }
+
+  remove(...args) {
+    var message = args.shift();
+    if (message in this.events) {
+      this.events[message] = this.events[message].filter((event) => {
+        return !args.includes(event);
+      });
+    }
+  }
+}
+```
+
+&nbsp;
+
+### Redux class
+
+```js
+class Redux {
+  constructor(reducer) {
+    this.state = null;
+    this.views = [];
+    this.reducer = reducer;
+  }
+
+  subscribe(...args) {
+    this.views.push(...args);
+  }
+
+  dispatch(...args) {
+    var [action] = args;
+    this.state = this.reducer(this.state, action);
+    this.views.forEach((view) => view());
+  }
+
+  getState() {
+    return this.state;
+  }
+}
+
+const reducer = (state, action) => {
+  switch (action.type) {
+    case "+":
+      return ++state;
+    case "-":
+      return --state;
+    default:
+      return state;
+  }
+};
+```
+
+&nbsp;
+
+### The Incrementor puzzle
+
+```js
+/*
+  Read the test first.
+  Your goal is to make it output like given in the test.
+*/
+
+// Your solution goes here --
+
+var Increment = function () {
+  this.val = 0;
+
+  this.toString = function () {
+    return this.val++;
+  };
+
+  return this.val;
+};
+
+// The test
+
+let increment = new Increment();
+let increment2 = Increment();
+
+console.log(increment == increment2); // true
+console.log(`val: ${increment}`); // val: 1
+console.log(`val: ${increment}`); // val: 2
+console.log(`val: ${increment}`); // val: 3
+```
 
 &nbsp;
