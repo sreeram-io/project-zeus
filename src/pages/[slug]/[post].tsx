@@ -35,7 +35,7 @@ const useStyles = makeStyles(theme => ({
     position: 'sticky',
     bottom: 0,
     borderRadius: 0,
-    background: '#0f1113',
+    background: '#0e0e10',
     padding: '12px 0',
   },
   footer: {

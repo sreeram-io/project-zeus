@@ -65,7 +65,7 @@ module.exports = {
     story: {
       route: "/story",
       title: "My Story",
-      img: "/sections/dev.svg",
+      img: "/posts/blog/sreeram.jpg",
       hidden: false,
       auth: false,
       paid: false,

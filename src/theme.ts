@@ -14,11 +14,11 @@ const theme = createMuiTheme({
       main: error.A400,
     },
     background: {
-      default: '#090909',
+      default: '#000000',
     },
   },
   typography: {
-    fontSize: 16,
+    fontSize: 15,
     fontFamily: "Ubuntu, Oxygen, Roboto, Helvetica, Arial, sans-serif",
     fontWeightLight: 300,
     fontWeightRegular: 400,
@@ -37,12 +37,14 @@ const theme = createMuiTheme({
     },
     MuiAppBar: {
       colorPrimary: {
-        backgroundColor: 'transparent',
+        backgroundColor: '#0e0e10',
+        borderBottom: 'solid 1px #333',
       },
     },
     MuiBottomNavigation: {
       root: {
-        backgroundColor: 'transparent',
+        backgroundColor: '#0e0e10',
+        borderTop: 'solid 1px #333',
       },
     },
     MuiBottomNavigationAction: {
