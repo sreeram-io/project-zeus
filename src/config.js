@@ -253,7 +253,7 @@ module.exports = {
     // },
     interview: {
       route: '/interview',
-      title: 'Interview Questions',
+      title: 'Interview',
       img: '/sections/interview.png',
       hidden: false,
       auth: true,
