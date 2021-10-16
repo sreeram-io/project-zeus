@@ -47,7 +47,7 @@ console.log(`val: ${myFunc}`); // val: 3
 (e) myFunc is called using template literals.
 
 
-I solved this using Deductive reasoning. Because of (a) and (b), we know that myFunc2 cannot be an object because 2 objects are not equal. Hence myFunc2 has to be a primitive value. With (c) in mind, when using the type coercing equality (==), Javascript tries to coerce the value of one of the values to a primitive type. In this case it converts the object to a string which becomes '[object Object]'. So we could solve the first test by writing this:
+I solved this using Deductive reasoning. Because of (a) and (b), we know that myFunc2 cannot be an object because 2 objects are not equal. Hence myFunc2 has to be a primitive value. With (c) in mind, when using the type coercing equality (==), Javascript tries to coerce the value of one of the values to a primitive type. In this case it converts the object to a string by calling the inbuilt toString method which returns '[object Object]'. So we could solve the first test by writing this:
 
 ```js
 var myFunction = function () {
@@ -91,4 +91,4 @@ var Increment = function () {
 
 &nbsp;
 
-Thats some of the most important concepts of Javascript topics packaged into a single elegant test. It tests for your knowlege of Constructor functions, type coercion and operator precedence with a few lines of code. It also tests for your reasoning skills. This is by far the best question I have ever faced.
+Thats some of the most important concepts of Javascript topics packaged into a single elegant test. It tests for your knowlege of Constructor functions, type coercion and operator precedence with a few lines of code. It also tests for your reasoning skills. Hence its safe to say that this is by far the best question I have ever faced.

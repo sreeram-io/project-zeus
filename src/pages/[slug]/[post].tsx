@@ -30,6 +30,7 @@ const useStyles = makeStyles(theme => ({
       minWidth: 800,
       margin: '20px auto',
     },
+    background: "url('/img/bg/trans.png')",
   },
   navigation: {
     position: 'sticky',
