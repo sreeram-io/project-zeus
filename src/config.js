@@ -260,7 +260,7 @@ module.exports = {
       paid: true,
       links: [
         { title: 'Top Javascript Interview questions', route: '/interview/javascript-interview-questions' },
-        { title: 'The best Javascript Interview question', route: '/interview/best-javascript-interview-question' },
+        { title: 'The best javascript interview question I\'ve ever faced', route: '/interview/best-javascript-interview-question' },
         // { title: 'Top General Web Interview questions', route: '/interview/general-interview-questions' },
         // { title: 'Top HTML Interview questions', route: '/interview/html-interview-questions' },
         // { title: 'Top CSS Interview questions', route: '/interview/css-interview-questions' },
