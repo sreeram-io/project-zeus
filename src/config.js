@@ -3,21 +3,21 @@
 const domain = process.env.NEXT_PUBLIC_DOMAIN;
 
 module.exports = {
-  title: 'Sreeram Padmanabhan',
-  description: 'Web of thoughts',
+  title: 'Web of thoughts',
+  description: 'If only one gets inspired, its a victory',
   seo: {
     author: 'Sreeram Padmanabhan',
     themeColor: '#000000',
-    description: '𝘐𝘧 𝘰𝘯𝘭𝘺 𝘰𝘯𝘦 𝘨𝘦𝘵𝘴 𝘪𝘯𝘴𝘱𝘪𝘳𝘦𝘥, 𝘪𝘵𝘴 𝘢 𝘷𝘪𝘤𝘵𝘰𝘳𝘺.',
+    description: 'If only one gets inspired, its a victory.',
     domain,
     gtmId: 'GTM-KFQNDM8',
     keywords: 'sreer.am, sreeram.io, sreeram, #sreeram, sreeram padmanabhan, jsdrome, siri, london, berlin, india, uk, germany, trivandrum, web, web developer, web engineer, creativity, Design your life, engineer, frontend, delivery hero, tech lead, wipro, mjam, lloyds bank, leetcode, leetcode solutions, leetcode javascript solutions',
     ogImage: `${domain}/img/og_image.jpg`,
     ogImageAlt: 'Sreeram Padmanabhan',
-    ogSiteName: 'Sreeram Padmanabhan | Web of thoughts',
+    ogSiteName: 'Web of thoughts',
     ogType: 'website',
     ogUrl: domain,
-    title: 'Sreeram Padmanabhan | Web of thoughts',
+    title: 'Web of thoughts',
     twitterId: "",
     org: 'jsDrome',
     orgImage: `${domain}/img/icon-256.png`,
@@ -108,7 +108,7 @@ module.exports = {
       auth: false,
       paid: false,
       links: [
-        { title: 'The biggest carrer landmine', route: '/tech/career-landmine' }, // 15/06/21
+        { title: 'The biggest career landmine', route: '/tech/career-landmine' }, // 15/06/21
         { title: 'What a Web Developer should know', route: '/tech/what-a-web-developer-should-know' }, // 12/06/21
         { title: 'Comparison of cloud providers', route: '/tech/comparing-cloud-providers' }, // 11/06/2021
         { title: 'Tech stack powering my website', route: '/tech/tech-stack-powering-my-website' }, // 07/06/2021
