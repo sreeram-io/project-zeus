@@ -1,6 +1,10 @@
 # Programming Interview questions
 
+#### 16 Oct 2021, London
+
 &nbsp;
+
+These are some of the programming interview questions I have faced over the years.
 
 ## 1. Klarna 2019
 
