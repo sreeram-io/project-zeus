@@ -80,7 +80,7 @@ module.exports = {
         { title: 'Next big step in life', route: '/story/next-big-step' }, // 02/06/21
         { title: 'First month in Bumble', route: '/story/first-month-in-bumble' }, // 02/06/21
         { title: 'Next adventure - Flying', route: '/story/learning-to-fly' }, // 04/09/21
-        // { title: 'How I organize my life', route: '/story/organize' },
+        { title: 'Using the web to declutter life', route: '/story/using-web-to-declutter-life' },
         // { title: 'Studio for rent', route: '/story/studio-for-rent-berlin' }, // 01/04/21
       ],
     },

@@ -1,4 +1,4 @@
-# What a Web developer should know
+# What a web developer should know
 
 #### *12 Jun 2021, Berlin*
 
@@ -10,17 +10,17 @@ I believe that true Web Developers are inherently Fullstack. They tend to have o
 
 ## Problem Solving
 
-First and foremost is problem solving. You need to have a decent knowledge in computer science and programming. You need to have a reasonable understanding of DataStructures and Algorithms. Irrespective of you being frontend or backend focused, this is a must for any Software Engineer. And I agree. Given a problem, you need to be able to come up with a consice solution using code in a time and space efficient way. Because in the web, a few seconds make a huge difference.
+First and foremost is problem solving. You need to have a decent knowledge in computer science and programming. You need to have a reasonable understanding of DataStructures and Algorithms. Irrespective of you being frontend or backend focused, this is a must for any Software Engineer. And I agree. Given a problem, you need to be able to come up with a concise solution using code in a time and space efficient way. Because in the web, a few seconds make a huge difference.
 
 ## Domain knowledge
 
-The Web is the domain I work on. I have been living in it for most of my life one way or the other. So this came easy for me. I built expertise by building a lof of stuff, working on a lot of projects, creating something end to end and deploying to production. It comes with a passion for the field.
+The Web is the domain I work on. I have been living in it for most of my life one way or the other. So this came easy for me. I built expertise by building a lof of stuff, working on a lot of projects, creating something end to end and deploying to production. It comes with a passion for the field. I have seen people drop like flies because of doing things they dont like. Web development wears you out if you dont like what you do.
 
 ## Frontend
 
 **Note**: I will lay emphasis on Frontend as it has been my core area. If backend is your core area, lay more focus on that.
 
-In frontend, your work will revolve to the most extent around Javascript. So, its imperative that you master it. Then comes the frameworks. These include React, Angular and Vue. Some companies expect some native knowledge like React Native/Flutter. You could use some online learning platform to learn these. I relied on documentations, POCs, and personal projects for this **in addition to** working in the field. I see a lot of developers these days attending a 3 month training in the web and struggling to apply that knowledge. One common mistake developers do is to jump into the frameworks without having a strong knowledge of the basics of Javascript. This is because there are 2 kinds of developers. Those who are focussed on getting a quick job and those who are in the field for the long haul. Shortcuts get you only as far as the average jobs out there and the competition for those jobs is great.
+In frontend, your work will revolve to the most extent around Javascript. So, its imperative that you master it. Then comes the frameworks. These include React, Angular and Vue. Some companies expect some native knowledge like React Native/Flutter. You could use some online learning platform to learn these. I relied on documentations, POCs, and personal projects for this **in addition to** working in the field. I see a lot of developers these days attending a 3 month training in the web and struggling to apply that knowledge. Learning is one thing, application is everything. One common mistake developers do is to jump into the frameworks without having a strong knowledge of the basics of Javascript. This is because there are 2 kinds of developers. Those who are focussed on getting a quick job and those who are in the field for the long haul. Shortcuts get you only as far as the average jobs out there and the competition for those jobs is great.
 
 ## Backend
 
@@ -32,7 +32,7 @@ You need to be able to design, configure and use databases. You need to know the
 
 ## DevOps/Networking
 
-It is essential that you know things like Git, Docker, Kubernetes, Cloud solutions etc. You need to be able to wite the code and know how to take it to production and monitor it after its release.
+It is essential that you know things like Git, Docker, Kubernetes, Cloud solutions etc. You need to be able to write the code and know how to take it to production and monitor it after its release.
 
 ## Testing
 
@@ -40,11 +40,15 @@ You need to be able to follow a TDD/BDD approach in writing software. You need t
 
 ## System Design
 
-You need to be able to come up with the design for a problem statement. Some examples include designing Uber, Instagram etc. You need to be able to discuss the approach you take for your design.
+You need to be able to come up with the design for a problem statement. Some examples include designing Uber, Instagram etc. You need to be able to discuss the approach you take for your design. Your experience comes to light here. Do not underestimate it.
 
 ## Software Engineering
 
-Lastly, you need to be able to write clean, efficient, readable, scalable and maintainable code. You also need to be able to do code review and pair programming. And most importantly, you need to be able to work in a team with people from various backrounds and knowledge levels. You may be the best at what you do, but you still may not be the perfect fit for the team if your soft skills dont match the technical skills. Toxic atmospheres affect companies and its people adversely.
+You need to be able to write clean, efficient, readable, scalable and maintainable code. You also need to be able to do code review and pair programming.
+
+## Soft skills
+
+You need to be able to work in a team with people from various backrounds and knowledge levels. You may be the best at what you do, but you still may not be the perfect fit for the team if your soft skills dont complement your technical skills. Toxic atmospheres affect companies adversely. Your communication skills, integrity, risk appetite, decision making etc will be tested.
 
 ## Conclusion
 
