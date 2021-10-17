@@ -65,7 +65,7 @@ const Page = ({ content, navigationProps }) => {
           </Markdown>
           <Navigation {...navigationProps} className={classes.navigation} />
           <SocialLinks />
-          <Typography variant='caption' className={classes.footer}>If only one gets inspired, its a victory.</Typography>
+          <Typography variant='caption' className={classes.footer}>लोकः समस्ताः सुखिनो भवन्तु</Typography>
         </>
       </div>
     </div>
