@@ -22,21 +22,23 @@ const useStyles = makeStyles(theme => ({
   content: {
     maxWidth: 800,
     padding: 15,
-    [theme.breakpoints.up('sm')]: {
+    [theme.breakpoints.up('md')]: {
       minWidth: 600,
       margin: 20,
     },
     [theme.breakpoints.up('md')]: {
       minWidth: 800,
       margin: '20px auto',
+      borderRadius: 8,
+      border: 'solid 1px #2a2a2a',
     },
-    background: "url('/img/bg/trans.png')",
+    backgroundImage: "url('/img/bg/trans.png')",
   },
   navigation: {
     position: 'sticky',
     bottom: 0,
     borderRadius: 0,
-    background: '#0e0e10',
+    background: '#000',
     padding: '12px 0',
   },
   footer: {
