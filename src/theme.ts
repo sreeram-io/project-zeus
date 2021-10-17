@@ -27,7 +27,7 @@ const theme = createMuiTheme({
   overrides: {
     MuiTypography: {
       root: {
-        color: '#c6c6c6',
+        color: '#cdcdcd',
       },
     },
     MuiListItemText: {
